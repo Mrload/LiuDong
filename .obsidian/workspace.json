@@ -11,8 +11,12 @@
             "id": "1391858d8b1d6de1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/插件Obsidian Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/插件Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian/插件Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian/插件Obsidian Git.md"
+              }
             }
           }
         ],
@@ -141,8 +149,9 @@
   },
   "active": "1391858d8b1d6de1",
   "lastOpenFiles": [
-    "Python/Django/权限控制ABAC和RBAC.md",
     "Obsidian/插件dataviewjs.md",
+    "Obsidian/插件Obsidian Git.md",
+    "Python/Django/权限控制ABAC和RBAC.md",
     "模板/Daily Note.md",
     "未命名.md",
     "Linux/脚本/按需求合并文件夹.md",
@@ -176,7 +185,6 @@
     "Linux/基础命令/xargs.md",
     "Linux/基础命令/grep.md",
     "Linux/基础命令/split.md",
-    "Linux/网络/ssh隧道【ssh端口转发】.md",
     "imgs/数据包走向.webp",
     "未命名.canvas"
   ]
