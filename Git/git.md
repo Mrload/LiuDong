@@ -1,0 +1,38 @@
+
+**参数**
+***
+clone 
+	克隆仓库至本地
+
+init path
+	初始化仓库
+
+add .
+	添加某些文件至暂存区
+
+git remote add name URL
+	添加远程仓库
+
+git push remote 本地分支:远程分支
+	分支名称相同则只填写一个分支名称
+
+git push remote --delete branch
+	删除主机某分支
+
+git push --force remote branch
+	强制推送
+
+git branch
+	列出分支
+
+git branch name
+	创建分支
+
+git branch -d branchname
+	删除分支
+
+git checkout branchname
+	切换分支
+
+git merge branchname
+	将xx分支合并到当前分支

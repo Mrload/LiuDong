@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "05c8c0cd864a6ca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2b5442d7b9412fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e121fe69fe4bab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a09191054917ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/插件dataviewjs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18077152be2b986b",
+    "type": "split",
+    "children": [
+      {
+        "id": "15638066c02e70a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d17e1cdbf045df2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "684c1113bfbd1482",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b297bd190ba766c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fedb53b400cd8c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fde6cd7c1c8a1b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cda3f5432c369e3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/插件dataviewjs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c26513274257402e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/插件dataviewjs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d14ebc9843a3930",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e059abe518934c50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/插件dataviewjs.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "3a09191054917ac9",
+  "lastOpenFiles": [
+    "Obsidian/插件dataviewjs.md",
+    "模板/Daily Note.md",
+    "未命名.md",
+    "Linux/脚本/按需求合并文件夹.md",
+    "汇报/2023-11-01.md",
+    "Linux/基础命令/tree.md",
+    "Linux/基础命令/shuf.md",
+    "Python/Django/权限控制ABAC和RBAC.md",
+    "Python/Django/外部使用django模型.md",
+    "Python/Django/django-filter.md",
+    "Python/Django/Model类 Groupby.md",
+    "数据库/Redis",
+    "数据库/MySQL",
+    "数据库/MongoBD",
+    "Python/异步任务",
+    "Python/各类模块",
+    "Linux/Shell",
+    "Python/spider",
+    "Python/Pandas",
+    "Python/Django",
+    "Python/Pymongo",
+    "Linux/各类软件/manpages-zh.md",
+    "Docker/Dokcer搭建sftp服务.md",
+    "Docker/Docker搭建vsftpd服务.md",
+    "Docker/Docker搭建Nginx服务.md",
+    "Docker/Docker搭建MySQL服务.md",
+    "Git/git.md",
+    "Linux/基础命令/find.md",
+    "Linux/基础命令/组合命令两种方式.md",
+    "Linux/基础命令/运算.md",
+    "Linux/基础命令/数组.md",
+    "Linux/基础命令/变量.md",
+    "Linux/基础命令/xargs.md",
+    "Linux/基础命令/grep.md",
+    "Linux/基础命令/split.md",
+    "Linux/网络/ssh隧道【ssh端口转发】.md",
+    "imgs/数据包走向.webp",
+    "未命名.canvas"
+  ]
+}
