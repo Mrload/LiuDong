@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b5442d7b9412fb",
+        "id": "62c36ec54f6be17a",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e121fe69fe4bab",
+            "id": "1391858d8b1d6de1",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3a09191054917ac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Django/权限控制ABAC和RBAC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Django/权限控制ABAC和RBAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Django/权限控制ABAC和RBAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Django/权限控制ABAC和RBAC.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,8 +139,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3a09191054917ac9",
+  "active": "1391858d8b1d6de1",
   "lastOpenFiles": [
+    "Python/Django/权限控制ABAC和RBAC.md",
     "Obsidian/插件dataviewjs.md",
     "模板/Daily Note.md",
     "未命名.md",
@@ -165,7 +149,6 @@
     "汇报/2023-11-01.md",
     "Linux/基础命令/tree.md",
     "Linux/基础命令/shuf.md",
-    "Python/Django/权限控制ABAC和RBAC.md",
     "Python/Django/外部使用django模型.md",
     "Python/Django/django-filter.md",
     "Python/Django/Model类 Groupby.md",
