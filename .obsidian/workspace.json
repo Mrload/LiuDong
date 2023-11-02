@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/插件Obsidian Git.md",
+                "file": "Git/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/插件Obsidian Git.md",
+                "file": "Git/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/插件Obsidian Git.md",
+                "file": "Git/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/插件Obsidian Git.md"
+                "file": "Git/git.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "11e855967e54fa36",
   "lastOpenFiles": [
-    "Obsidian/插件dataviewjs.md",
+    "ReadMe.md",
+    "未命名.md",
     "Obsidian/插件Obsidian Git.md",
+    "Obsidian/插件dataviewjs.md",
     "Python/Django/权限控制ABAC和RBAC.md",
     "模板/Daily Note.md",
-    "未命名.md",
     "Linux/脚本/按需求合并文件夹.md",
     "汇报/2023-11-01.md",
     "Linux/基础命令/tree.md",
@@ -184,7 +185,6 @@
     "Linux/基础命令/变量.md",
     "Linux/基础命令/xargs.md",
     "Linux/基础命令/grep.md",
-    "Linux/基础命令/split.md",
     "imgs/数据包走向.webp",
     "未命名.canvas"
   ]
