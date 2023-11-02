@@ -65,5 +65,6 @@ git merge branchname
 - -e --edit 使用默认编辑器修改配置
 
 ```git
-# 修改
+# 修改git默认编辑器
+git config --global core.editor vim
 ```
