@@ -8,7 +8,8 @@ init path
 	初始化仓库
 
 # git add .
-添加某些文件至暂存区
+	添加某些文件至暂存区
+
 
 git remote add name URL
 	添加远程仓库
