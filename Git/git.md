@@ -42,6 +42,15 @@ git merge branchname
 # config 配置管理
 ***
 ### 生效范围
-- --system 系统级别
-- --global 用户级别
-- worktree 
+- --system 系统级别，位于/etc/gitconfig
+`git config --system --list`
+
+- --global 用户级别，位于~/.gitconfig
+`git config --global --list`
+
+- --local 工作目录下，本地仓库./.git/config
+`git config --local --list`
+
+- --worktree 和 --file \<filename\>
+没用过， 不知道啥用
+

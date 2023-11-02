@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "538ce9cdf04308df",
+        "id": "be78d6bca9284be4",
         "type": "tabs",
         "children": [
           {
-            "id": "11e855967e54fa36",
+            "id": "281092371b4d5772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git.md",
+                "file": "Obsidian/插件Obsidian Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git.md",
+                "file": "Obsidian/插件Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git.md",
+                "file": "Obsidian/插件Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git.md"
+                "file": "Obsidian/插件Obsidian Git.md"
               }
             }
           }
@@ -147,12 +147,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "11e855967e54fa36",
+  "active": "281092371b4d5772",
   "lastOpenFiles": [
+    "assets/imgs/obsidian-git-config1.png",
+    "Obsidian/插件dataviewjs.md",
+    "Obsidian/插件Obsidian Git.md",
+    "assets/imgs/obsidian-git-config.png",
+    "Git/git.md",
+    "assets",
     "ReadMe.md",
     "未命名.md",
-    "Obsidian/插件Obsidian Git.md",
-    "Obsidian/插件dataviewjs.md",
     "Python/Django/权限控制ABAC和RBAC.md",
     "模板/Daily Note.md",
     "Linux/脚本/按需求合并文件夹.md",
@@ -171,21 +175,18 @@
     "Python/spider",
     "Python/Pandas",
     "Python/Django",
-    "Python/Pymongo",
     "Linux/各类软件/manpages-zh.md",
     "Docker/Dokcer搭建sftp服务.md",
     "Docker/Docker搭建vsftpd服务.md",
     "Docker/Docker搭建Nginx服务.md",
     "Docker/Docker搭建MySQL服务.md",
-    "Git/git.md",
     "Linux/基础命令/find.md",
     "Linux/基础命令/组合命令两种方式.md",
     "Linux/基础命令/运算.md",
     "Linux/基础命令/数组.md",
     "Linux/基础命令/变量.md",
     "Linux/基础命令/xargs.md",
-    "Linux/基础命令/grep.md",
-    "imgs/数据包走向.webp",
+    "assets/imgs/数据包走向.webp",
     "未命名.canvas"
   ]
 }
