@@ -1,7 +1,7 @@
 {
   "commitMessage": "obsidian commit: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 1,
+  "autoSaveInterval": 30,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
@@ -36,18 +36,18 @@
     "dateTimeTimezone": "viewer-local",
     "coloringMaxAge": "1y",
     "colorNew": {
-      "r": 255,
-      "g": 150,
-      "b": 150
+      "r": 0,
+      "g": 255,
+      "b": 0
     },
     "colorOld": {
-      "r": 120,
-      "g": 160,
-      "b": 255
+      "r": 0,
+      "g": 0,
+      "b": 0
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 12,
+    "gutterSpacingFallbackLength": 13,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
