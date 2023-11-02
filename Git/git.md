@@ -9,6 +9,9 @@ init path
 
 # git add .
 	添加某些文件至暂存区
+## -n --dry-run
+	并非实际添加，而是显示文件是否存在或是否被忽略
+
 
 
 git remote add name URL
