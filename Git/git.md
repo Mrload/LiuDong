@@ -56,3 +56,5 @@ git merge branchname
 - --worktree 和 --file \<filename\>
 没用过， 不知道啥用
 
+### 操作
+- --add 
