@@ -62,3 +62,8 @@ git merge branchname
 - -l --list 列出所有配置项
 - --unset 移除对应匹配配置项，同一个键下多个值，猜测是移除最后一个
 - --unset-all 移除所有匹配配置项
+- -e --edit 使用默认编辑器修改配置
+
+```git
+# 修改
+```
