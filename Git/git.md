@@ -41,6 +41,8 @@ git merge branchname
 
 # config 配置管理
 ***
+## options
+
 ### 生效范围
 - --system 系统级别，位于/etc/gitconfig
 `git config --system --list`
