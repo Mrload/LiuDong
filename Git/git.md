@@ -41,4 +41,7 @@ git merge branchname
 
 # config 配置管理
 ***
-### congfi 
+### 生效范围
+- --system 系统级别
+- --global 用户级别
+- worktree 
