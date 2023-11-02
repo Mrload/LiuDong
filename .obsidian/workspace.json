@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git.md",
+                "file": "Linux/基础命令/shuf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git.md",
+                "file": "Linux/基础命令/shuf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git.md",
+                "file": "Linux/基础命令/shuf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git.md"
+                "file": "Linux/基础命令/shuf.md"
               }
             }
           }
@@ -149,13 +149,13 @@
   },
   "active": "281092371b4d5772",
   "lastOpenFiles": [
+    "Git/git.md",
     "ReadMe.md",
     "Obsidian/插件Obsidian Git.md",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
     "Obsidian/插件dataviewjs.md",
     "assets/imgs/obsidian-git-config.png",
-    "Git/git.md",
     "assets",
     "未命名.md",
     "Python/Django/权限控制ABAC和RBAC.md",
