@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae17f0915ff2e69c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,10 +160,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d17e1cdbf045df2b",
+  "active": "ae17f0915ff2e69c",
   "lastOpenFiles": [
-    "Obsidian/插件dataviewjs.md",
     "ReadMe.md",
+    "conflict-files-obsidian-git.md",
+    "assets/imgs/数据包走向.webp",
+    "assets/imgs/url",
+    "assets/imgs/obsidian-git-config2.png",
+    "assets/imgs/obsidian-git-config1.png",
+    "assets/imgs/iptables命令参数",
+    "assets/imgs",
+    "assets",
+    "Obsidian/插件dataviewjs.md",
     "Obsidian/插件Obsidian Git.md",
     "Python/Django/权限控制ABAC和RBAC.md",
     "模板/Daily Note.md",
@@ -168,10 +189,6 @@
     "Python/异步任务",
     "Python/各类模块",
     "Linux/Shell",
-    "Python/spider",
-    "Python/Pandas",
-    "Python/Django",
-    "Python/Pymongo",
     "Linux/各类软件/manpages-zh.md",
     "Docker/Dokcer搭建sftp服务.md",
     "Docker/Docker搭建vsftpd服务.md",
@@ -184,7 +201,6 @@
     "Linux/基础命令/数组.md",
     "Linux/基础命令/变量.md",
     "Linux/基础命令/xargs.md",
-    "Linux/基础命令/grep.md",
     "imgs/数据包走向.webp",
     "未命名.canvas"
   ]

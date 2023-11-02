@@ -7,8 +7,12 @@ clone
 init path
 	初始化仓库
 
-add .
+# git add .
 	添加某些文件至暂存区
+## -n --dry-run
+	并非实际添加，而是显示文件是否存在或是否被忽略
+
+
 
 git remote add name URL
 	添加远程仓库
@@ -36,3 +40,35 @@ git checkout branchname
 
 git merge branchname
 	将xx分支合并到当前分支
+
+# remote 远程管理
+
+# config 配置管理
+***
+## options
+
+### 生效范围
+- --system 系统级别，位于/etc/gitconfig
+`git config --system --list`
+
+- --global 用户级别，位于~/.gitconfig
+`git config --global --list`
+
+- --local 工作目录下，本地仓库./.git/config
+`git config --local --list`
+
+- --worktree 和 --file \<filename\>
+没用过， 不知道啥用
+
+### 操作
+- --add 添加新配置，不更改其它配置
+- --get 获取配置，同一个键下多个值，返回最后一个，未找到返回-1
+- -l --list 列出所有配置项
+- --unset 移除对应匹配配置项，同一个键下多个值，猜测是移除最后一个
+- --unset-all 移除所有匹配配置项
+- -e --edit 使用默认编辑器修改配置
+
+```git
+# 修改git默认编辑器
+git config --global core.editor vim
+```
