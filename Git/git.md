@@ -36,3 +36,9 @@ git checkout branchname
 
 git merge branchname
 	将xx分支合并到当前分支
+
+# remote 远程管理
+
+# config 配置管理
+***
+### 
