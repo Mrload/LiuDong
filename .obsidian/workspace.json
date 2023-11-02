@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Git/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Git/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Git/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "Git/git.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d17e1cdbf045df2b",
+  "active": "281092371b4d5772",
   "lastOpenFiles": [
+    "ReadMe.md",
     "Obsidian/插件Obsidian Git.md",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
@@ -156,7 +157,6 @@
     "assets/imgs/obsidian-git-config.png",
     "Git/git.md",
     "assets",
-    "ReadMe.md",
     "未命名.md",
     "Python/Django/权限控制ABAC和RBAC.md",
     "模板/Daily Note.md",
