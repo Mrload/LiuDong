@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/基础命令/后台运行的方式.md",
-                "mode": "source",
+                "file": "Linux/网络/ssh隧道【ssh端口转发】.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/基础命令/后台运行的方式.md",
+                "file": "Linux/网络/ssh隧道【ssh端口转发】.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/基础命令/后台运行的方式.md",
+                "file": "Linux/网络/ssh隧道【ssh端口转发】.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/基础命令/后台运行的方式.md"
+                "file": "Linux/网络/ssh隧道【ssh端口转发】.md"
               }
             }
           }
@@ -149,10 +149,16 @@
   },
   "active": "281092371b4d5772",
   "lastOpenFiles": [
-    "Linux/基础命令/组合命令两种方式.md",
-    "Linux/基础命令/后台运行的方式.md",
+    "Linux/各类软件/manpages-zh.md",
+    "Linux/基础命令/xargs.md",
+    "Linux/基础命令/tree.md",
     "Linux/基础命令/split.md",
     "Linux/基础命令/shuf.md",
+    "Linux/基础命令/find.md",
+    "Linux/基础命令/运算.md",
+    "Linux/基础命令/数组.md",
+    "Linux/基础命令/后台运行的方式.md",
+    "Linux/基础命令/组合命令两种方式.md",
     "conflict-files-obsidian-git.md",
     "Git/git.md",
     "ReadMe.md",
@@ -167,7 +173,6 @@
     "模板/Daily Note.md",
     "Linux/脚本/按需求合并文件夹.md",
     "汇报/2023-11-01.md",
-    "Linux/基础命令/tree.md",
     "Python/Django/外部使用django模型.md",
     "Python/Django/django-filter.md",
     "Python/Django/Model类 Groupby.md",
@@ -180,14 +185,9 @@
     "Python/spider",
     "Python/Pandas",
     "Python/Django",
-    "Linux/各类软件/manpages-zh.md",
     "Docker/Dokcer搭建sftp服务.md",
     "Docker/Docker搭建vsftpd服务.md",
     "Docker/Docker搭建Nginx服务.md",
-    "Docker/Docker搭建MySQL服务.md",
-    "Linux/基础命令/find.md",
-    "Linux/基础命令/运算.md",
-    "Linux/基础命令/数组.md",
     "assets/imgs/数据包走向.webp",
     "未命名.canvas"
   ]
