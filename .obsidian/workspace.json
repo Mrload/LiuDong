@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "281092371b4d5772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Django/权限控制ABAC和RBAC.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5cab8e70be5e5241",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

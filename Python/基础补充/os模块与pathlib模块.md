@@ -53,7 +53,7 @@ path_obj = pathlib.Path('/a','b','c','d.txt')
 
 	obsolute() Path实例，绝对路径
 
-	cwd() Path实例， 当前工作目录
+	cwd() Path实例， 当前工作目
 
 	home() Path实例，用户家目录
 
@@ -65,9 +65,14 @@ path_obj = pathlib.Path('/a','b','c','d.txt')
 
 	rmdir() None,删除该实例对应的文件夹，且必须是空的
 
-	with_name Path实例，返回一个把最后一个文件名改掉了的实例
+	with_name() Path实例，返回一个把最后一个文件名改掉了的实例
 
-	with_stem Path实例，返回一个
+	with_stem() Path实例，返回一个把最后一个文件名[不改后缀]，改掉的实例
+
+	iterdir() 迭代器，实例必须存在，返回该目录实例下的所有文件与文件夹路径的迭代器
+
+	glob()
+	rglob() 
 # 遍历
 
 ```python
