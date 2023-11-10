@@ -9,5 +9,5 @@ for root, dirs, files in os.walk(scr_path):
 	# for file in files:
 		# do_something
 
-for 
+	for 
 ```
