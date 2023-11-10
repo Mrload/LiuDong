@@ -71,8 +71,8 @@ path_obj = pathlib.Path('/a','b','c','d.txt')
 
 	iterdir() 迭代器，实例必须存在，返回该目录实例下的所有文件与文件夹路径的迭代器
 
-	glob()
-	rglob() 
+	glob() 目录下数据遍历  **代表文件夹  *代表文件
+	rglob() 目录及子目录遍历
 # 遍历
 
 ```python
