@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc37df248b94c36d",
+        "id": "408e9082414061b4",
         "type": "tabs",
         "children": [
           {
-            "id": "3f01fbe02f4dda62",
+            "id": "d280c1c303d0444d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/插件Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian/插件Obsidian Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Obsidian/插件Obsidian Git.md"
               }
             }
           }
@@ -143,6 +145,7 @@
   },
   "active": "d17e1cdbf045df2b",
   "lastOpenFiles": [
+    "Obsidian/插件dataviewjs.md",
     "conflict-files-obsidian-git.md",
     "Python/基础补充/os模块与pathlib模块.md",
     "ReadMe.md",
@@ -156,7 +159,6 @@
     "assets/imgs/iptables命令参数",
     "assets/imgs",
     "assets",
-    "Obsidian/插件dataviewjs.md",
     "Obsidian/插件Obsidian Git.md",
     "Python/Django/权限控制ABAC和RBAC.md",
     "模板/Daily Note.md",
