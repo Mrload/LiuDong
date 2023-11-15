@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/网络/ssh隧道【ssh端口转发】.md",
+                "file": "Linux/各类软件/inotify.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/各类软件/inotify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/各类软件/inotify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Linux/各类软件/inotify.md"
               }
             }
           }
@@ -145,13 +147,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d17e1cdbf045df2b",
+  "active": "d280c1c303d0444d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Linux/各类软件/inotify.md",
     "新建 文本文档.txt",
     "Python/监控文件变化watchdog与pyinotify.md",
     "Python/完成事件监控.md",
     "Python/subprocess.md",
-    "conflict-files-obsidian-git.md",
     "Linux/网络/ssh隧道【ssh端口转发】.md",
     "Linux/脚本/移动anaconda.md",
     "Linux/基础命令/后台运行的方式.md",
@@ -185,7 +188,6 @@
     "数据库/MySQL",
     "数据库/MongoBD",
     "Python/异步任务",
-    "Python/各类模块",
     "imgs/数据包走向.webp",
     "未命名.canvas"
   ]
