@@ -11,8 +11,12 @@
             "id": "d280c1c303d0444d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/网络/ssh隧道【ssh端口转发】.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/插件Obsidian Git.md",
+                "file": "Linux/网络/ssh隧道【ssh端口转发】.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/插件Obsidian Git.md",
+                "file": "Linux/网络/ssh隧道【ssh端口转发】.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/插件Obsidian Git.md"
+                "file": "Linux/网络/ssh隧道【ssh端口转发】.md"
               }
             }
           }
@@ -143,14 +147,21 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d17e1cdbf045df2b",
+  "active": "d280c1c303d0444d",
   "lastOpenFiles": [
+    "Linux/基础命令/后台运行的方式.md",
+    "Linux/基础命令/组合命令两种方式.md",
+    "Linux/基础命令/数组.md",
+    "Linux/基础命令/变量.md",
+    "Linux/基础命令/运算.md",
+    "Linux/基础命令/find.md",
+    "Linux/基础命令/xargs.md",
+    "Obsidian/插件Obsidian Git.md",
     "Obsidian/插件dataviewjs.md",
     "conflict-files-obsidian-git.md",
     "Python/基础补充/os模块与pathlib模块.md",
     "ReadMe.md",
     "Python/基础补充",
-    "Linux/基础命令/后台运行的方式.md",
     "Git/git.md",
     "assets/imgs/数据包走向.webp",
     "assets/imgs/url",
@@ -159,7 +170,6 @@
     "assets/imgs/iptables命令参数",
     "assets/imgs",
     "assets",
-    "Obsidian/插件Obsidian Git.md",
     "Python/Django/权限控制ABAC和RBAC.md",
     "模板/Daily Note.md",
     "未命名.md",
@@ -178,12 +188,6 @@
     "Linux/各类软件/manpages-zh.md",
     "Docker/Dokcer搭建sftp服务.md",
     "Docker/Docker搭建vsftpd服务.md",
-    "Docker/Docker搭建Nginx服务.md",
-    "Docker/Docker搭建MySQL服务.md",
-    "Linux/基础命令/find.md",
-    "Linux/基础命令/组合命令两种方式.md",
-    "Linux/基础命令/运算.md",
-    "Linux/基础命令/数组.md",
     "imgs/数据包走向.webp",
     "未命名.canvas"
   ]
