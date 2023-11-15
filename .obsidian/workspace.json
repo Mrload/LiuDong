@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be78d6bca9284be4",
+        "id": "d518a60392edff36",
         "type": "tabs",
         "children": [
           {
-            "id": "5cab8e70be5e5241",
+            "id": "586cb01b9a7c23bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/脚本/移动anaconda.md",
+                "file": "Python/完成事件监控.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/脚本/移动anaconda.md",
+                "file": "Python/完成事件监控.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/脚本/移动anaconda.md",
+                "file": "Python/完成事件监控.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/脚本/移动anaconda.md"
+                "file": "Python/完成事件监控.md"
               }
             }
           }
@@ -147,10 +147,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5cab8e70be5e5241",
+  "active": "586cb01b9a7c23bb",
   "lastOpenFiles": [
-    "Python/基础补充/os模块与pathlib模块.md",
+    "Python/完成事件监控.md",
+    "Python/subprocess.md",
+    "Python/监控文件变化watchdog与pyinotify.md",
     "Linux/脚本/移动anaconda.md",
+    "Python/基础补充/os模块与pathlib模块.md",
     "Python/Django/权限控制ABAC和RBAC.md",
     "Python/基础补充",
     "Linux/网络/ssh隧道【ssh端口转发】.md",
@@ -177,8 +180,6 @@
     "Linux/脚本/按需求合并文件夹.md",
     "汇报/2023-11-01.md",
     "Python/Django/外部使用django模型.md",
-    "Python/Django/django-filter.md",
-    "Python/Django/Model类 Groupby.md",
     "数据库/Redis",
     "数据库/MySQL",
     "数据库/MongoBD",
@@ -187,7 +188,6 @@
     "Linux/Shell",
     "Python/spider",
     "Python/Pandas",
-    "Docker/Dokcer搭建sftp服务.md",
     "assets/imgs/数据包走向.webp",
     "未命名.canvas"
   ]
