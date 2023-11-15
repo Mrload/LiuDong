@@ -147,6 +147,7 @@
   },
   "active": "d17e1cdbf045df2b",
   "lastOpenFiles": [
+    "新建 文本文档.txt",
     "Python/监控文件变化watchdog与pyinotify.md",
     "Python/完成事件监控.md",
     "Python/subprocess.md",
@@ -180,7 +181,6 @@
     "汇报/2023-11-01.md",
     "Linux/基础命令/tree.md",
     "Linux/基础命令/shuf.md",
-    "Python/Django/外部使用django模型.md",
     "数据库/Redis",
     "数据库/MySQL",
     "数据库/MongoBD",
