@@ -12,7 +12,7 @@ docker run \
 -d  \
 --name mysql  \
 --privileged   \
---env MYSQL_ROOT_PASSWORD=yunzhisql  \
+--env MYSQL_ROOT_PASSWORD=xxx  \
 -p 3306:3306/tcp  \
 -v /data/users/yuncoder03/mysql/log:/var/log/mysql  \
 -v /data/users/yuncoder03/mysql/data:/var/lib/mysql  \
