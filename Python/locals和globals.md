@@ -1,0 +1,2 @@
+- locals() 只读
+- globals() 可读可写

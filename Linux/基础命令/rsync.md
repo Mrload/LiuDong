@@ -26,3 +26,25 @@ SRC DST
 
 	--partial 保留那些因故没有完全传输的文件，以是加快随后的再次传输
 
+
+
+```bash
+rsync -a src/ dst/  # 同步src文件夹下数据至dst文件夹下，无需写成src/*，保留数据信息（权限，属主，属组，修改时间等）
+src dst/  # 这种写法完成dst/src
+src/ dst/ # 这种写法将src下所有文件拷贝到dst下
+```
+
++ -a 递归且保留文件信息，
++ -v 显示详细信息
++ --progress  显示同步进度
++ --partial 断点续传，保留在rsync中断时只传输了一部分的文件
++ -P  等同于--partial --progress 
+
++ --info=FLAGS
+  - PROGRESS   Mention 1) per-file progress or 2) total transfer progress
+  > 1 单个文件进度  2 总体度
+
+
+```bash
+rsync -a --info=progress2 src/ dst/
+```

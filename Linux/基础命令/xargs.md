@@ -16,3 +16,7 @@
 find -type f | xargs -i cp {} temp
 
 ```
+
+> 并发参数
+
+-P 加线程数
