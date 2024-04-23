@@ -89,6 +89,7 @@ mysqldump  -uroot -p --all-databases --events
 使用具有多个VALUES列的INSERT语法。这样使导出文件更小，并加速导入时的速度。默认为打开状态，使用--skip-extended-insert取消选项。
 mysqldump  -uroot -p --all-databases
 mysqldump  -uroot -p --all-databases--skip-extended-insert   (取消选项)
+
 --fields-terminated-by
 导出文件中忽略给定字段。与--tab选项一起使用，不能用于--databases和--all-databases选项
 mysqldump  -uroot -p test test --tab=”/home/mysql” --fields-terminated-by=”#”
