@@ -20,3 +20,11 @@ find -type f | xargs -i cp {} temp
 > 并发参数
 
 -P 加线程数
+
+
+> 多个组合
+
+```bash
+# 五个一行输出
+cat xxx|xargs -n 5|xargs -i {} echo {}
+```
