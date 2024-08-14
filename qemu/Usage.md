@@ -11,19 +11,23 @@ qemu-img create -f qcow2 alpine_disk.qcow2 8G
 # 安装 qemu-system-xxx
 
 ```powershell
-qemu-system-aarch64 -m 4000 `
+qemu-system-aarch64 `
+-m 4000 `
 -cpu cortex-a72 `
 -smp 4,cores=4,threads=1,sockets=1 `
--M virt -bios F:\QEMU\QEMU_EFI.fd `
+-M virt `
+-bios QEMU_EFI.fd `
 -net nic `
 -net tap,ifname=tap1212 `
+-device VGA `
 -device nec-usb-xhci `
 -device usb-kbd `
 -device usb-mouse `
--device VGA `
--drive if=none,file=F:\QEMU\openEuler-20.03-LTS-SP3-aarch64-dvd.iso,id=cdrom,media=cdrom `
 -device virtio-scsi-device `
--device scsi-cd,drive=cdrom -drive if=none,file=F:\QEMU\openEuler-20.03-LTS-SP3-aarch64.img,id=hd0 -device virtio-blk-device,drive=hd0
+-device scsi-cd,drive=cdrom `
+-device virtio-blk-device,drive=hd0 `
+-drive if=none,file=alpine_disk,id=hd0 `
+-drive if=none,file=alpine-standard-3.20.2-aarch64.iso,id=cdrom,media=cdrom `
 
 ```
 
