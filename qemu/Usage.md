@@ -8,7 +8,7 @@ qemu-img create -f qcow2 alpine_disk.qcow2 8G
 
 ```
 
-# 安装
+# 安装 qemu-system-xxx
 
 ```powershell
 qemu-system-aarch64 -m 4000 `
@@ -61,3 +61,14 @@ qemu-system-aarch64 \
 + -drive if=none,file=F:\QEMU\openEuler-20.03-LTS-SP3-aarch64-dvd.iso,id=cdrom,media=cdrom 指定光驱使用镜像文件
 + -device virtio-scsi-device -device scsi-cd,drive=cdrom 指定光驱硬件类型
 + -drive if=none,file=F:\QEMU\openEuler-20.03-LTS-SP3-aarch64.img 指定硬盘镜像文件
+
+
+>  -machine help
+>  支持的机器列表
+
+> -cpu help
+> 支持的cpu列表
+
+> -device help
+> 支持的设备列表
+
