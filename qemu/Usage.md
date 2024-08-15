@@ -4,7 +4,7 @@
 > create 创建空白硬盘
 
 ```bash
-qemu-img create -f qcow2 alpine_disk.qcow2 8G
+qemu-img create -f qcow2 alpine_disk 8G
 
 ```
 
