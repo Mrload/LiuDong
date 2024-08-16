@@ -467,7 +467,24 @@ iptables -A INPUT -j REJECT --reject-with icmp-host-prohibited
 # 需要去nat表里处理相应的规则
 ```
 
-# 白名单
+# 仅白名单
+
+```bash
+# 阻止所有机器访问本机 
+iptables -I INPUT -j DROP
+
+# 不允许任何主机 ping 本主机，REJECT拒绝 (上一步就拒绝了？)
+iptables -t filter -A INPUT -picmp -j REJECT
+
+# 禁止全部 ping 操作，同上
+iptables -I INPUT 1 -p icmp --icmp-type echo-request -j DROP 
+
+# 允许指定 ip 可以 ping 操作
+iptables -I INPUT -p icmp --icmp-type echo-request -s 192.168.4.233 -j ACCEPT 
+
+# 允许指定主机访问本机 tcp 22 端口
+iptables -I INPUT -s 192.168.4.233 -p tcp --dport 22 -j ACCEPT 
+```
 
 
 
