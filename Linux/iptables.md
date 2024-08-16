@@ -467,6 +467,8 @@ iptables -A INPUT -j REJECT --reject-with icmp-host-prohibited
 # 需要去nat表里处理相应的规则
 ```
 
+# 白名单
+
 
 
 
