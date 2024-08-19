@@ -24,3 +24,11 @@ headers = {'Connection':'close'}
 # 重连接次数： 
 requests.DEFAULT_RETRIES = 5
 ```
+
+> HTTPAdapter
+
+```python
+
+from requests.adapters import HTTPAdapter
+
+```
