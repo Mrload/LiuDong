@@ -46,9 +46,10 @@ ipset flush SET_NAME  # 清空单个集合
 ```bash
 iptable del SET_NAME ENTRY  # 删除集合内特定元素
 ```
-# 只允许国内网段访问
+# 示例
+## 只允许国内网段访问
 
-## 网段获取
+### 网段获取
 
 [IPdeny IP country blocks](https://www.ipdeny.com/)
 
@@ -58,14 +59,13 @@ curl -LO http://www.ipdeny.com/ipblocks/data/countries/cn.zone
 
 ```
 
-## ipset安装
 
-## 创建国内ip网段集合
+### 创建国内ip网段集合
 
 ```bash
 pset create china hash:net
 ```
-## ipset导入国内网段
+### ipset导入国内网段
 
 ```bash
 # 下载并移动
@@ -73,8 +73,8 @@ curl -LO http://www.ipdeny.com/ipblocks/data/countries/cn.zone && mv ./cn.zone ~
 # 清空
 ipset flush china
 # 添加
-for i in `cat cn.zone` do 
-	ipset add cnip $i 
+for i in `cat cn.zone`; do 
+	ipset add china $i 
 done
 ```
 ## iptables 实现仅允许国内ip访问
