@@ -3,6 +3,8 @@
 
 结合`iptables`,用于存储和操作 IP 地址、网络和端口。
 
+> ipset 重启会清空，需要实现本地存储与开机加载
+
 # USAGE
 
 ##  create
@@ -10,17 +12,31 @@
 ```bash
 # 创建特定格式的集合
 ipset create SET_NAME SET_TYPE
-ipset -N SET_NAME SET_TYPE
-# SET_TYPE 集合类型
-# hash:ip 表示创建一个使用 IP 地址作为元素的哈希集合。它指定了 ipset 的类型和数据结构，以便有效地存储和检索 IP 地址。冒号前面的部分（hash）表示 ipset 的类型，冒号后面的部分（ip）表示使用的数据类型。
+# SET_TYPE 集合类型 METHOD:DATATYPE
 # ------------------------
-# hash:ip：使用 IP 地址作为元素的哈希集合。 
-# hash:net：使用 IP 网络（CIDR）作为元素的哈希集合。 
-# hash:ip,port：使用 IP 地址和端口号组合作为元素的哈希集合。 
-# hash:net,port：使用 IP 网络（CIDR）和端口号组合作为元素的哈希集合。
+# METHOD:
+# hash 
+# bitmap 使用固定大小的存储
+# list 使用固定大小的存储
+# ------------------------
+# DATATYPE:可多种组合
+# net 网段
+# ip  单个ip
+# port 支持指定 TCP/UDP 协议
+# mac
+# iface
 # ------------------------
 
 ```
+## add
+
+```bash
+ipset add SET_NAME ENTRY
+```
+> 子命令
+> timeout second  # 超时秒数
+
+
 ## list
 
 ```bash
@@ -46,7 +62,21 @@ ipset flush SET_NAME  # 清空单个集合
 ```bash
 iptable del SET_NAME ENTRY  # 删除集合内特定元素
 ```
+
+## save 持久化
+
+```
+ipset save > /etc/ipset
+```
+## restore  恢复
+
+```bash
+ipset restore < xxx
+ipset resore -file xxx.conf
+```
+
 # 示例
+
 ## 只允许国内网段访问
 
 ### 网段获取
