@@ -95,6 +95,8 @@ ipset add test 192.168.1.1,vrrp:0
 ipset test test 192.168.1.1,80
 # Warning: 192.168.1.1,80 is in set test.
 
+iptablse -I INPUT -m set --match-set test src,src -j DROP
+
 ```
 
 ## 只允许国内网段访问
