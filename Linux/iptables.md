@@ -315,8 +315,16 @@ RELATED：相关联的连接，当前连接是一个新请求，但附属于某�
 
 UNTRACKED：未追踪的连接；
 
-state扩展：
+```
+```bash
+# 一旦限制外网访问，又想要去访问外网
+# 允许已建立和相关的包进入
+# 可以ping别人，不能被ping
+iptables -I INPUT -m state --state RELATED,ESTABLELISHED -j ACCEPT
+```
 
+```bash
+state扩展：
 内核模块装载：
 　　nf_conntrack
 　　nf_conntrack_ipv4
@@ -333,7 +341,24 @@ state扩展：
 超时时长：
 　　/proc/sys/net/netfilter/timeout
 ```
+# 示例
 
+## 拒绝所有外网
+
+```bash
+# 远程慎用，最好别放第一个规则 INPUT后跟number避免放第一个
+iptables -I INPUT -j DROP
+```
+	- 仅此规则时
+	- 任何交互都不能做，即使是localhost
+## 开放本地环回
+
+```bash
+# 放在前面, -i 指定网卡
+iptables -I INPUT -i lo -j ACCEPT
+```
+	- 可以联通 `127.0.0.1`、`localhost`或`本机在局域网的地址`
+	
 # 常用规则
 
 ### 清空规则
@@ -467,23 +492,17 @@ iptables -A INPUT -j REJECT --reject-with icmp-host-prohibited
 # 需要去nat表里处理相应的规则
 ```
 
-# 仅白名单
+# 内部服务器配置
 
 ```bash
+# 添加白名单,完全开放
+iptables -I INPUT -s 远程HOST -j ACCEPT
+
 # 阻止所有机器访问本机 
-iptables -I INPUT -j DROP
+iptables -I INPUT 2 -j DROP
 
-# 不允许任何主机 ping 本主机，REJECT拒绝 (上一步就拒绝了？)
-iptables -t filter -A INPUT -picmp -j REJECT
+# 
 
-# 禁止全部 ping 操作，同上
-iptables -I INPUT 1 -p icmp --icmp-type echo-request -j DROP 
-
-# 允许指定 ip 可以 ping 操作
-iptables -I INPUT -p icmp --icmp-type echo-request -s 192.168.4.233 -j ACCEPT 
-
-# 允许指定主机访问本机 tcp 22 端口
-iptables -I INPUT -s 192.168.4.233 -p tcp --dport 22 -j ACCEPT 
 ```
 
 
