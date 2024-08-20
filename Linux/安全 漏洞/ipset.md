@@ -77,6 +77,26 @@ ipset resore -file xxx.conf
 
 # 示例
 
+```bash
+# 端口
+ipset create set-p bitmap:port range 1024-4096
+ipset add set-p 2000
+ipset add set-p udp:2000  # it's already added  指定包类型在这里无效
+ipset add set-p 100  # 加不进去
+
+```
+
+```bash
+# ip:port
+ipset create test hash:ip,port
+ipset add test 192.168.1.0/24,80−82
+ipset add test 192.168.1.1,udp:53
+ipset add test 192.168.1.1,vrrp:0
+ipset test test 192.168.1.1,80
+# Warning: 192.168.1.1,80 is in set test.
+
+```
+
 ## 只允许国内网段访问
 
 ### 网段获取
@@ -107,14 +127,14 @@ for i in `cat cn.zone`; do
 	ipset add china $i 
 done
 ```
-## iptables 实现仅允许国内ip访问
+### iptables 实现仅允许国内ip访问
 
 ```bash
 # 国内ip允许访问80端口tcp服务
 iptables -I INPUT -m set --match-set cnip src -p tcp --dport 80 -j ACCEPT
 ```
 
-## 定时任务
+### 定时任务
 
 ```bash
 echo “0 2 * * * root /bin/bash /root/shell/脚本位置.sh” >> /etc/crontab
