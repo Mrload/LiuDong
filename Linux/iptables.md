@@ -1,11 +1,11 @@
 # 四表五链 堵通策略
 
-| 表     | 链                                              |
-| ------ | ----------------------------------------------- |
-| filter | INPUT、FORWARD、OUTPUT                          |
-| 源码    | PREROUTING、OUTPUT                              |
+| 表      | 链                                           |
+| ------ | ------------------------------------------- |
+| filter | INPUT、FORWARD、OUTPUT                        |
+| 源码     | PREROUTING、OUTPUT                           |
 | mangle | PREROUTING、INPUT、FORWARD、OUTPUT、POSTROUTING |
-| nat    | PREROUTING、INPUT、OUTPUT、POSTROUTING          |
+| nat    | PREROUTING、INPUT、OUTPUT、POSTROUTING         |
 
 ## “四表”是指，iptables的功能——filter, nat, mangle, raw.
 
@@ -334,9 +334,9 @@ state扩展：
 　　/proc/sys/net/netfilter/timeout
 ```
 
-# 各种例子
+# 常用规则
 
-## 清空规则
+### 清空规则
 
 ```bash
 iptables -F
@@ -344,7 +344,7 @@ iptables -F
 # !!!这只适合在没有配置防火墙的环境中，如果已经配置过默认规则为deny的环境，此步骤将使系统的所有网络访问中断
 ```
 
-##  只能收发邮件，别的都关闭
+###  只能收发邮件，别的都关闭
 
 ```bash
 # 只能
