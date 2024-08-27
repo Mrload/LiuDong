@@ -1,4 +1,14 @@
+
+# select
+
+	创建select-query实例
+
+# get_or_none
+
+	与get一致，若不匹配则返回None
+
 # get_by_id
+
 
 ```python
 DModel.get_by_id(pk)
