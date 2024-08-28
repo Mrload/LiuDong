@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/Tasks.md",
+                "file": "DailyNotes/2024年-08月28日工作记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/Tasks.md",
+                "file": "DailyNotes/2024年-08月28日工作记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/Tasks.md",
+                "file": "DailyNotes/2024年-08月28日工作记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/Tasks.md"
+                "file": "DailyNotes/2024年-08月28日工作记录.md"
               }
             }
           },
@@ -158,11 +158,14 @@
   },
   "active": "527ee40babd6e783",
   "lastOpenFiles": [
+    "DailyNotes/Tasks.md",
     "公司/工作内容.md",
+    "DailyNotes/2024年-08月28日工作记录.md",
+    "公司/服务器记录.md",
+    "公司/未命名.md",
+    "Docker/Gitlab-ce  社区版.md",
     "Python/peewee/逻辑外键-AI回复.md",
     "Python/Pandas/DataFrame数据转为IO文件流.md",
-    "公司/服务器记录.md",
-    "DailyNotes/Tasks.md",
     "运维/压力测试.md",
     "运维/Linux硬件信息.md",
     "Python/peewee/Model方法.md",
@@ -181,9 +184,6 @@
     "VIm、NeoVIm/因gcc版本过低，TreeSitter报错.md",
     "VIm、NeoVIm/宏录制.md",
     "SQL/MySQL/Xtrabackup.md",
-    "SQL/MySQL/mysqldump.md",
-    "qemu/Usage.md",
-    "Python/requests.md",
     "Lua",
     "运维/nginx",
     "运维/监控",
