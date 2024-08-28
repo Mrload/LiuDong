@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "05c8c0cd864a6ca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0be1ac381ac17a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "527ee40babd6e783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18077152be2b986b",
+    "type": "split",
+    "children": [
+      {
+        "id": "15638066c02e70a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d17e1cdbf045df2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "684c1113bfbd1482",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b297bd190ba766c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fedb53b400cd8c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fde6cd7c1c8a1b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cda3f5432c369e3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DailyNotes/Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c26513274257402e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DailyNotes/Tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d14ebc9843a3930",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e059abe518934c50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DailyNotes/Tasks.md"
+              }
+            }
+          },
+          {
+            "id": "86adff53c6def474",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "527ee40babd6e783",
+  "lastOpenFiles": [
+    "公司/工作内容.md",
+    "Python/peewee/逻辑外键-AI回复.md",
+    "Python/Pandas/DataFrame数据转为IO文件流.md",
+    "公司/服务器记录.md",
+    "DailyNotes/Tasks.md",
+    "运维/压力测试.md",
+    "运维/Linux硬件信息.md",
+    "Python/peewee/Model方法.md",
+    "Python/peewee/反射 使用pwiz工具.md",
+    "Python/peewee/地址.md",
+    "DailyNotes/2024年-08月26日工作记录.md",
+    "数据库/MySQL/大数据表分批次更新.md",
+    "前端/JavaScript调用剪切板.md",
+    "前端/使用reduce实现JSON数据的分组.md",
+    "其他/硬件防火墙.md",
+    "其他/华为云.md",
+    "其他/地面采样距离 (GSD) 详解.md",
+    "ReadMe.md",
+    "wsl/wsl.md",
+    "windows/scoop.md",
+    "VIm、NeoVIm/因gcc版本过低，TreeSitter报错.md",
+    "VIm、NeoVIm/宏录制.md",
+    "SQL/MySQL/Xtrabackup.md",
+    "SQL/MySQL/mysqldump.md",
+    "qemu/Usage.md",
+    "Python/requests.md",
+    "Lua",
+    "运维/nginx",
+    "运维/监控",
+    "公司",
+    "DailyNotes",
+    "运维/安全 漏洞",
+    "Linux/Ubuntu",
+    "wsl",
+    "运维/ssh",
+    "qemu",
+    "assets/imgs/obsidian-git-config2.png",
+    "assets/imgs/obsidian-git-config1.png",
+    "assets/imgs/数据包走向.webp",
+    "assets/imgs/obsidian-git-config.png",
+    "未命名.canvas"
+  ]
+}
