@@ -60,3 +60,19 @@ gitlab/gitlab-ce  镜像的名称，这里也可以写镜像ID
 	账户->密码
 
 
+## clone地址
+
+```bash
+docker exec -it xxx bash
+
+vi /etc/gitlab/gitlab.rb
+
+# http 地址 不需port
+external_url 'http://xxx.xxx.xxx.xxx'
+
+# ssh
+gitlab_rails['gitlab_ssh_host'] = 'xxx.xxx.xxx.xxx'
+gitlab_rails['gitlab_shell_ssh_port'] = 3022
+
+gitlab-ctl reconfigure
+```
