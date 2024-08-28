@@ -39,3 +39,24 @@ gitlab/gitlab-ce  镜像的名称，这里也可以写镜像ID
 '''
 
 ```
+
+# 初始密码
+
+`docker exec -it d5d247ee3192 grep "Password:" /etc/gitlab/initial_root_password`
+
+# 配置
+
+## 登录
+
+	账户：root
+	密码：初始密码
+
+## 语言
+
+	头像->settings->Preferences->language
+
+## 修改密码
+
+	账户->密码
+
+
