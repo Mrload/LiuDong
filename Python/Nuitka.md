@@ -14,6 +14,7 @@ Nuitka是一个用Python编写的Python编译器。
 > clang /clang-cl
 
 - patchelf 工具，--onefile 或者 --standalone里使用
+> [NixOS/patchelf: A small utility to modify the dynamic linker and RPATH of ELF executables (github.com)](https://github.com/NixOS/patchelf)
 
 # Usage
 
@@ -21,7 +22,6 @@ Nuitka是一个用Python编写的Python编译器。
 
 ```bash 
 pip install nuitka
-
 ```
 
 
