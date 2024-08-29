@@ -13,6 +13,8 @@ Nuitka是一个用Python编写的Python编译器。
 > g++ >= 4.4
 > clang /clang-cl
 
+- patchelf 工具，--onefile 或者 --standalone里使用
+
 # Usage
 
 ## installation
