@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/ssh/config权限.md",
+                "file": "数据库/MySQL/复制表.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/ssh/config权限.md",
+                "file": "数据库/MySQL/复制表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/ssh/config权限.md",
+                "file": "数据库/MySQL/复制表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/ssh/config权限.md"
+                "file": "数据库/MySQL/复制表.md"
               }
             }
           },
@@ -158,9 +158,10 @@
   },
   "active": "527ee40babd6e783",
   "lastOpenFiles": [
+    "运维/ssh/config权限.md",
+    "数据库/MySQL/复制表.md",
     "运维/ssh/免密登录.md",
     "运维/ssh/ssh-keygen.md",
-    "运维/ssh/config权限.md",
     "Git/git.md",
     "Python/peewee/复制表.md",
     "Python/peewee/Model方法.md",
@@ -183,7 +184,6 @@
     "前端/使用reduce实现JSON数据的分组.md",
     "其他/硬件防火墙.md",
     "其他/华为云.md",
-    "其他/地面采样距离 (GSD) 详解.md",
     "Lua",
     "运维/nginx",
     "运维/监控",
