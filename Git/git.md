@@ -1,44 +1,45 @@
-
-**参数**
-***
-clone 
+# clone 
+	
 	克隆仓库至本地
 
-init path
+# init path
+	
 	初始化仓库
 
 # git add .
+
 	添加某些文件至暂存区
-## -n --dry-run
+	
+	-n --dry-run
+
 	并非实际添加，而是显示文件是否存在或是否被忽略
 
 
-
-git remote add name URL
+# git remote add name URL
 	添加远程仓库
 
-git push remote 本地分支:远程分支
+# git push remote 本地分支:远程分支
 	分支名称相同则只填写一个分支名称
 
-git push remote --delete branch
+# git push remote --delete branch
 	删除主机某分支
 
-git push --force remote branch
+# git push --force remote branch
 	强制推送
 
-git branch
+# git branch
 	列出分支
 
-git branch name
+# git branch name
 	创建分支
 
-git branch -d branchname
+# git branch -d branchname
 	删除分支
 
-git checkout branchname
+# git checkout branchname
 	切换分支
 
-git merge branchname
+# git merge branchname
 	将xx分支合并到当前分支
 
 # remote 远程管理
