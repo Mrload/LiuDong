@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97302ba19cd503e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "镜像源.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/配置- .screenrc.md",
+                "file": "镜像源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/配置- .screenrc.md",
+                "file": "镜像源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/配置- .screenrc.md"
+                "file": "镜像源.md"
               }
             }
           },
@@ -156,8 +169,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "527ee40babd6e783",
+  "active": "97302ba19cd503e3",
   "lastOpenFiles": [
+    "运维/配置- .screenrc.md",
+    "镜像源.md",
     "运维/基础命令/tar.md",
     "运维/基础命令/scp.md",
     "Docker/Dokcer搭建sftp服务.md",
@@ -183,8 +198,6 @@
     "运维/ssh/免密登录.md",
     "运维/ssh/ssh-keygen.md",
     "Git/git.md",
-    "Python/peewee/复制表.md",
-    "Python/peewee/Model方法.md",
     "Lua",
     "运维/nginx",
     "运维/监控",
