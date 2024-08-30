@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "镜像源.md",
+                "file": "公司/服务器记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "镜像源.md",
+                "file": "公司/服务器记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "镜像源.md",
+                "file": "公司/服务器记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "镜像源.md"
+                "file": "公司/服务器记录.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "运维/配置- .screenrc.md",
+    "公司/工作内容.md",
     "镜像源.md",
+    "运维/配置- .screenrc.md",
     "运维/基础命令/tar.md",
     "运维/基础命令/scp.md",
     "Docker/Dokcer搭建sftp服务.md",
@@ -191,7 +192,6 @@
     "运维/未命名.md",
     "运维/manpages-zh.md",
     "Python/Nuitka.md",
-    "公司/工作内容.md",
     "Python/peewee/事务.md",
     "数据库/MySQL/复制表.md",
     "运维/ssh/config权限.md",
