@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/基础命令/tar.md",
+                "file": "Shell/变量.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/基础命令/tar.md",
+                "file": "Shell/变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/基础命令/tar.md",
+                "file": "Shell/变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/基础命令/tar.md"
+                "file": "Shell/变量.md"
               }
             }
           },
@@ -156,13 +156,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e059abe518934c50",
+  "active": "527ee40babd6e783",
   "lastOpenFiles": [
-    "公司/服务器记录.md",
+    "Shell/脚本/移动anaconda.md",
+    "Shell/脚本/按需求合并文件夹.md",
+    "Shell/变量.md",
+    "运维/后台运行的方式.md",
+    "运维/基础命令/ab命令.md",
+    "运维/基础命令/组合命令两种方式.md",
+    "Shell/运算.md",
+    "Shell/数组.md",
+    "运维/基础命令/find.md",
+    "DailyNotes/Tasks.md",
+    "Shell",
+    "运维/未命名.md",
     "运维/基础命令/tar.md",
+    "公司/服务器记录.md",
     "运维/manpages-zh.md",
     "Python/Nuitka.md",
-    "DailyNotes/Tasks.md",
     "公司/工作内容.md",
     "Python/peewee/事务.md",
     "数据库/MySQL/复制表.md",
@@ -174,16 +185,6 @@
     "Python/peewee/Model方法.md",
     "DailyNotes/2024年-08月28日工作记录.md",
     "Docker/Gitlab-ce  社区版.md",
-    "Docker/ubuntu 安装docker.md",
-    "公司/未命名.md",
-    "Python/peewee/逻辑外键-AI回复.md",
-    "Python/Pandas/DataFrame数据转为IO文件流.md",
-    "运维/压力测试.md",
-    "运维/Linux硬件信息.md",
-    "Python/peewee/反射 使用pwiz工具.md",
-    "Python/peewee/地址.md",
-    "DailyNotes/2024年-08月26日工作记录.md",
-    "数据库/MySQL/大数据表分批次更新.md",
     "Lua",
     "运维/nginx",
     "运维/监控",
@@ -193,7 +194,6 @@
     "Linux/Ubuntu",
     "wsl",
     "运维/ssh",
-    "qemu",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
     "assets/imgs/数据包走向.webp",
