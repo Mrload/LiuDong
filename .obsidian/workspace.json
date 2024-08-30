@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,7 +156,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "527ee40babd6e783",
+  "active": "e059abe518934c50",
   "lastOpenFiles": [
     "公司/服务器记录.md",
     "运维/基础命令/tar.md",
