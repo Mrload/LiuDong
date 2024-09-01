@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git.md",
+                "file": "镜像源.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b8612b20f1abf9ca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git.md",
+                "file": "镜像源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git.md",
+                "file": "镜像源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git.md"
+                "file": "镜像源.md"
               }
             }
           }
@@ -159,8 +148,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b8612b20f1abf9ca",
+  "active": "f68ad27942c71778",
   "lastOpenFiles": [
+    "Python/odoo/Installnation.md",
+    "Git/git.md",
+    "Python/odoo",
     "镜像源.md",
     "Linux/挖矿病毒事件.md",
     "运维/网络/ssh隧道【ssh端口转发】.md",
@@ -185,8 +177,6 @@
     "运维/基础命令/host.md",
     "运维/基础命令/grep.md",
     "运维/基础命令/find.md",
-    "运维/基础命令/ab命令.md",
-    "运维/ssh/免密登录.md",
     "运维/网络",
     "运维/监控",
     "运维/安全 漏洞",
@@ -196,7 +186,6 @@
     "运维/kali",
     "运维",
     "wsl",
-    "Shell/脚本",
     "assets/imgs/数据包走向.webp",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
