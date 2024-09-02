@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024年-09月02日工作记录.md",
+                "file": "公司/服务器记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024年-09月02日工作记录.md",
+                "file": "公司/服务器记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024年-09月02日工作记录.md",
+                "file": "公司/服务器记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024年-09月02日工作记录.md"
+                "file": "公司/服务器记录.md"
               }
             }
           },
@@ -159,8 +158,8 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "运维/安全 漏洞/iptables.md",
     "DailyNotes/2024年-09月02日工作记录.md",
+    "运维/安全 漏洞/iptables.md",
     "运维/vsftpd.md",
     "公司/服务器记录.md",
     "公司/工作内容.md",
