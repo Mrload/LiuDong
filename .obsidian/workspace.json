@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "527ee40babd6e783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "运维/配置- .screenrc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "97302ba19cd503e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公司/服务器记录.md",
+                "file": "DailyNotes/2024年-08月28日工作记录.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公司/服务器记录.md",
+                "file": "DailyNotes/2024年-08月28日工作记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公司/服务器记录.md",
+                "file": "DailyNotes/2024年-08月28日工作记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公司/服务器记录.md"
+                "file": "DailyNotes/2024年-08月28日工作记录.md"
               }
             }
           },
@@ -171,13 +158,19 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
+    "DailyNotes/Tasks.md",
+    "数据库/MySQL/大数据表分批次更新.md",
+    "数据库/MySQL/复制表.md",
+    "公司/服务器记录.md",
+    "数据库/未命名",
+    "数据库/MongoDB",
+    "Golang",
+    "运维/配置- .screenrc.md",
     "公司/工作内容.md",
     "镜像源.md",
-    "运维/配置- .screenrc.md",
     "运维/基础命令/tar.md",
     "运维/基础命令/scp.md",
     "Docker/Dokcer搭建sftp服务.md",
-    "公司/服务器记录.md",
     "Shell/变量.md",
     "Shell/脚本/移动anaconda.md",
     "Shell/脚本/按需求合并文件夹.md",
@@ -187,26 +180,20 @@
     "Shell/运算.md",
     "Shell/数组.md",
     "运维/基础命令/find.md",
-    "DailyNotes/Tasks.md",
     "Shell",
     "运维/未命名.md",
     "运维/manpages-zh.md",
     "Python/Nuitka.md",
     "Python/peewee/事务.md",
-    "数据库/MySQL/复制表.md",
     "运维/ssh/config权限.md",
     "运维/ssh/免密登录.md",
     "运维/ssh/ssh-keygen.md",
-    "Git/git.md",
     "Lua",
     "运维/nginx",
     "运维/监控",
     "公司",
     "DailyNotes",
     "运维/安全 漏洞",
-    "Linux/Ubuntu",
-    "wsl",
-    "运维/ssh",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
     "assets/imgs/数据包走向.webp",
