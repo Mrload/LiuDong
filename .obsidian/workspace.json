@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/vsftpd.md",
+                "file": "DailyNotes/2024年-09月02日工作记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/vsftpd.md",
+                "file": "DailyNotes/2024年-09月02日工作记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/vsftpd.md",
+                "file": "DailyNotes/2024年-09月02日工作记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/vsftpd.md"
+                "file": "DailyNotes/2024年-09月02日工作记录.md"
               }
             }
           },
@@ -158,8 +159,10 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "公司/服务器记录.md",
+    "运维/安全 漏洞/iptables.md",
+    "DailyNotes/2024年-09月02日工作记录.md",
     "运维/vsftpd.md",
+    "公司/服务器记录.md",
     "公司/工作内容.md",
     "DailyNotes/2024年-08月28日工作记录.md",
     "conflict-files-obsidian-git.md",
@@ -187,8 +190,6 @@
     "运维/基础命令/find.md",
     "Shell",
     "运维/manpages-zh.md",
-    "Python/Nuitka.md",
-    "Python/peewee/事务.md",
     "Lua",
     "运维/nginx",
     "运维/监控",
