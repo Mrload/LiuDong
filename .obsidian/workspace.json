@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公司/服务器记录.md",
-                "mode": "source",
+                "file": "DailyNotes/2024年-09月03日工作记录.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公司/服务器记录.md",
+                "file": "DailyNotes/2024年-09月03日工作记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公司/服务器记录.md",
+                "file": "DailyNotes/2024年-09月03日工作记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公司/服务器记录.md"
+                "file": "DailyNotes/2024年-09月03日工作记录.md"
               }
             }
           },
@@ -158,10 +158,12 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "运维/基础命令/mount.md",
-    "公司/服务器记录.md",
-    "DailyNotes/2024年-09月02日工作记录.md",
+    "Docker/ubuntu 安装docker.md",
+    "DailyNotes/2024年-09月03日工作记录.md",
     "运维/安全 漏洞/iptables.md",
+    "公司/服务器记录.md",
+    "运维/基础命令/mount.md",
+    "DailyNotes/2024年-09月02日工作记录.md",
     "运维/vsftpd.md",
     "公司/工作内容.md",
     "DailyNotes/2024年-08月28日工作记录.md",
@@ -186,8 +188,6 @@
     "运维/基础命令/ab命令.md",
     "运维/基础命令/组合命令两种方式.md",
     "Shell/运算.md",
-    "Shell/数组.md",
-    "运维/基础命令/find.md",
     "Shell",
     "Lua",
     "运维/nginx",
