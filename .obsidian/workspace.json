@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024年-09月03日工作记录.md",
-                "mode": "preview",
+                "file": "运维/命令/split.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "split",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024年-09月03日工作记录.md",
+                "file": "运维/命令/split.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024年-09月03日工作记录.md",
+                "file": "运维/命令/split.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024年-09月03日工作记录.md"
+                "file": "运维/命令/split.md"
               }
             }
           },
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,42 +160,43 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "Docker/ubuntu 安装docker.md",
-    "DailyNotes/2024年-09月03日工作记录.md",
-    "运维/安全 漏洞/iptables.md",
-    "公司/服务器记录.md",
-    "运维/基础命令/mount.md",
-    "DailyNotes/2024年-09月02日工作记录.md",
-    "运维/vsftpd.md",
-    "公司/工作内容.md",
-    "DailyNotes/2024年-08月28日工作记录.md",
-    "conflict-files-obsidian-git.md",
-    "Python/odoo/Installnation.md",
-    "Python/odoo",
-    "DailyNotes/Tasks.md",
-    "数据库/MySQL/大数据表分批次更新.md",
-    "数据库/MySQL/复制表.md",
-    "数据库/未命名",
-    "数据库/MongoDB",
-    "Golang",
-    "运维/配置- .screenrc.md",
-    "镜像源.md",
-    "运维/基础命令/tar.md",
-    "运维/基础命令/scp.md",
-    "Docker/Dokcer搭建sftp服务.md",
+    "Docker/images/odoo-17.0.tar9",
+    "Docker/images/odoo-17.0.tar8",
+    "Docker/images/odoo-17.0.tar7",
+    "Docker/images/odoo-17.0.tar6",
+    "Docker/images/odoo-17.0.tar5",
+    "Docker/images/odoo-17.0.tar4",
+    "Docker/images/odoo-17.0.tar3",
+    "Docker/images/odoo-17.0.tar2",
+    "Docker/images/odoo-17.0.tar1",
+    "Docker/images/odoo-17.0.tar0",
+    "Git/git status 中文.md",
+    "Git/git.md",
+    "运维/命令/split.md",
+    "Docker/images/x2",
+    "运维/压力测试指标.md",
     "Shell/变量.md",
-    "Shell/脚本/移动anaconda.md",
-    "Shell/脚本/按需求合并文件夹.md",
-    "运维/后台运行的方式.md",
-    "运维/基础命令/ab命令.md",
-    "运维/基础命令/组合命令两种方式.md",
-    "Shell/运算.md",
-    "Shell",
-    "Lua",
-    "运维/nginx",
-    "运维/监控",
-    "公司",
-    "DailyNotes",
+    "Python/peewee/事务.md",
+    "Docker/命令.md",
+    "Python/peewee/Model方法.md",
+    "Python/peewee/地址.md",
+    "DailyNotes/2024年-08月28日工作记录.md",
+    "DailyNotes/2024年-09月04日工作记录.md",
+    "Python/peewee/逻辑外键-AI回复.md",
+    "Python/peewee/复制表.md",
+    "Python/peewee/反射 使用pwiz工具.md",
+    "Docker/离线安装.md",
+    "运维/包管理/apt和apt-get.md",
+    "Docker/ubuntu 安装docker.md",
+    "公司/离线部署脚本.md",
+    "公司/国际动植物疫情风险预警平台.md",
+    "运维/wkhtmltopdf.md",
+    "DailyNotes/Tasks.md",
+    "DailyNotes/2024年-08月26日工作记录.md",
+    "DailyNotes/2024年-09月03日工作记录.md",
+    "Pasted image 20240904092410.png",
+    "公司/服务器记录.md",
+    "Docker/镜像本地导出与导入.md",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
     "assets/imgs/数据包走向.webp",
