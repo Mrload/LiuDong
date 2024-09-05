@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Gitlab-ce  社区版.md",
+                "file": "运维/包管理/依赖获取，离线包下载.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Gitlab-ce  社区版.md",
+                "file": "运维/包管理/依赖获取，离线包下载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Gitlab-ce  社区版.md",
+                "file": "运维/包管理/依赖获取，离线包下载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Gitlab-ce  社区版.md"
+                "file": "运维/包管理/依赖获取，离线包下载.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
+    "运维/包管理/apt和apt-get.md",
+    "运维/包管理/依赖获取，离线包下载.md",
+    "Git/git status 中文.md",
+    "Docker/Gitlab-ce  社区版.md",
     "SQL/MySQL/Xtrabackup.md",
     "Lua/Installnation.md",
     "其他/硬件防火墙.md",
@@ -177,7 +181,6 @@
     "Docker/images/odoo-17.0.tar3",
     "Docker/images/odoo-17.0.tar2",
     "Docker/images/odoo-17.0.tar1",
-    "Git/git status 中文.md",
     "Git/git.md",
     "Shell/变量.md",
     "Docker/命令.md",
@@ -189,12 +192,9 @@
     "Python/peewee/复制表.md",
     "Python/peewee/反射 使用pwiz工具.md",
     "Docker/离线安装.md",
-    "运维/包管理/apt和apt-get.md",
     "Docker/ubuntu 安装docker.md",
     "公司/离线部署脚本.md",
     "公司/国际动植物疫情风险预警平台.md",
-    "运维/wkhtmltopdf.md",
-    "DailyNotes/Tasks.md",
     "Pasted image 20240904092410.png",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
