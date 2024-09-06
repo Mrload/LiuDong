@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/包管理/依赖获取，离线包下载.md",
+                "file": "Docker/离线安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/包管理/依赖获取，离线包下载.md",
+                "file": "Docker/离线安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/包管理/依赖获取，离线包下载.md",
+                "file": "Docker/离线安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/包管理/依赖获取，离线包下载.md"
+                "file": "Docker/离线安装.md"
               }
             }
           },
@@ -159,15 +159,18 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
+    "Docker/ubuntu 安装docker.md",
+    "Docker/命令.md",
+    "Docker/Docker备份Mysql.md",
+    "Docker/Linux 普通用户使用Docker.md",
+    "Docker/Gitlab-ce  社区版.md",
+    "运维/包管理/依赖获取，离线包下载.md",
     "运维/包管理/apt apt-get apt-cache.md",
     "Python/peewee/查询.md",
     "Python/peewee/Model方法.md",
     "Python/peewee/Meta方法.md",
     "运维/命令/shuf.md",
-    "Docker/ubuntu 安装docker.md",
-    "运维/包管理/依赖获取，离线包下载.md",
     "Git/git status 中文.md",
-    "Docker/Gitlab-ce  社区版.md",
     "SQL/MySQL/Xtrabackup.md",
     "Lua/Installnation.md",
     "其他/硬件防火墙.md",
@@ -188,13 +191,10 @@
     "Docker/images/odoo-17.0.tar1",
     "Git/git.md",
     "Shell/变量.md",
-    "Docker/命令.md",
     "Python/peewee/地址.md",
     "DailyNotes/2024年-08月28日工作记录.md",
     "DailyNotes/2024年-09月04日工作记录.md",
     "Python/peewee/逻辑外键-AI回复.md",
-    "Python/peewee/复制表.md",
-    "Python/peewee/反射 使用pwiz工具.md",
     "Pasted image 20240904092410.png",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
