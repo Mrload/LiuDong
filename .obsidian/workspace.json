@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/peewee/Meta方法.md",
+                "file": "运维/包管理/依赖获取，离线包下载.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/peewee/Meta方法.md",
+                "file": "运维/包管理/依赖获取，离线包下载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/peewee/Meta方法.md",
+                "file": "运维/包管理/依赖获取，离线包下载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/peewee/Meta方法.md"
+                "file": "运维/包管理/依赖获取，离线包下载.md"
               }
             }
           },
@@ -159,12 +159,13 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
+    "运维/包管理/apt apt-get apt-cache.md",
+    "Python/peewee/查询.md",
     "Python/peewee/Model方法.md",
     "Python/peewee/Meta方法.md",
     "运维/命令/shuf.md",
     "Docker/ubuntu 安装docker.md",
     "运维/包管理/依赖获取，离线包下载.md",
-    "运维/包管理/apt和apt-get.md",
     "Git/git status 中文.md",
     "Docker/Gitlab-ce  社区版.md",
     "SQL/MySQL/Xtrabackup.md",
@@ -194,7 +195,6 @@
     "Python/peewee/逻辑外键-AI回复.md",
     "Python/peewee/复制表.md",
     "Python/peewee/反射 使用pwiz工具.md",
-    "Docker/离线安装.md",
     "Pasted image 20240904092410.png",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
