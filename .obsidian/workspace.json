@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/包管理/依赖获取，离线包下载.md",
+                "file": "Docker/ubuntu 安装docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/包管理/依赖获取，离线包下载.md",
+                "file": "Docker/ubuntu 安装docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/包管理/依赖获取，离线包下载.md",
+                "file": "Docker/ubuntu 安装docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/包管理/依赖获取，离线包下载.md"
+                "file": "Docker/ubuntu 安装docker.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "运维/包管理/apt和apt-get.md",
     "运维/包管理/依赖获取，离线包下载.md",
+    "运维/包管理/apt和apt-get.md",
     "Git/git status 中文.md",
     "Docker/Gitlab-ce  社区版.md",
     "SQL/MySQL/Xtrabackup.md",
