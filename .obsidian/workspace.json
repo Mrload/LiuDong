@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/离线安装.md",
+                "file": "Docker/镜像本地导出与导入.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/离线安装.md",
+                "file": "Docker/镜像本地导出与导入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/离线安装.md",
+                "file": "Docker/镜像本地导出与导入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/离线安装.md"
+                "file": "Docker/镜像本地导出与导入.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
+    "Docker/离线安装.md",
     "Docker/ubuntu 安装docker.md",
     "Docker/命令.md",
     "Docker/Docker备份Mysql.md",
@@ -194,7 +195,6 @@
     "Python/peewee/地址.md",
     "DailyNotes/2024年-08月28日工作记录.md",
     "DailyNotes/2024年-09月04日工作记录.md",
-    "Python/peewee/逻辑外键-AI回复.md",
     "Pasted image 20240904092410.png",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
