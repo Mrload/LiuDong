@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/命令/ip.md",
-                "mode": "source",
+                "file": "公司/鼠害平台后端API接口-简版.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/命令/ip.md",
+                "file": "公司/鼠害平台后端API接口-简版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/命令/ip.md",
+                "file": "公司/鼠害平台后端API接口-简版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/命令/ip.md"
+                "file": "公司/鼠害平台后端API接口-简版.md"
               }
             }
           },
@@ -159,9 +159,10 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
-    "运维/命令/ip.md",
     "DailyNotes/2024年-09月09日工作记录.md",
+    "公司/鼠害平台后端API接口-简版.md",
+    "运维/命令/ip.md",
+    "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
     "Python/编译为动态库 pyd或so文件.md",
     "Python/pyinstaller.md",
     "Python/Nuitka.md",
@@ -184,7 +185,6 @@
     "其他/硬件防火墙.md",
     "运维/压力测试指标.md",
     "Python/peewee/事务.md",
-    "其他/华为云.md",
     "odoo",
     "Docker/images/odoo-17.0.tar9",
     "Docker/images/odoo-17.0.tar8",
