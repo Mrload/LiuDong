@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
+                "file": "运维/命令/ip.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
+                "file": "运维/命令/ip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
+                "file": "运维/命令/ip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md"
+                "file": "运维/命令/ip.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "DailyNotes/2024年-09月09日工作记录.md",
     "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
+    "运维/命令/ip.md",
+    "DailyNotes/2024年-09月09日工作记录.md",
     "Python/编译为动态库 pyd或so文件.md",
     "Python/pyinstaller.md",
     "Python/Nuitka.md",
@@ -184,7 +185,6 @@
     "运维/压力测试指标.md",
     "Python/peewee/事务.md",
     "其他/华为云.md",
-    "Python/Django/动态Model.md",
     "odoo",
     "Docker/images/odoo-17.0.tar9",
     "Docker/images/odoo-17.0.tar8",
