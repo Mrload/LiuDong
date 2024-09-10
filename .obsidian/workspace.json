@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "镜像源.md",
+                "file": "DailyNotes/2024年-09月03日工作记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "odoo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "镜像源.md",
+                "file": "DailyNotes/2024年-09月03日工作记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "镜像源.md",
+                "file": "DailyNotes/2024年-09月03日工作记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "镜像源.md"
+                "file": "DailyNotes/2024年-09月03日工作记录.md"
               }
             }
           },
@@ -159,9 +160,19 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "Pasted image 20240904092410.png",
-    "公司/鼠害平台后端API接口-简版.md",
+    "源.md",
+    "Python/conda.md",
+    "DailyNotes/2024年-09月04日工作记录.md",
+    "Pasted image 20240904092410.png.md",
     "DailyNotes/2024年-09月09日工作记录.md",
+    "DailyNotes/2024年-09月10日工作记录.md",
+    "公司/鼠害平台后端API接口-简版.md",
+    "公司/离线部署脚本.md",
+    "公司/国际动植物疫情风险预警平台.md",
+    "公司/工作内容.md",
+    "公司/服务器记录.md",
+    "Pasted image 20240904092410.png",
+    "Docker/Dockerfile.md",
     "运维/命令/ip.md",
     "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
     "Python/编译为动态库 pyd或so文件.md",
@@ -176,15 +187,6 @@
     "Docker/Gitlab-ce  社区版.md",
     "运维/包管理/依赖获取，离线包下载.md",
     "运维/包管理/apt apt-get apt-cache.md",
-    "Python/peewee/查询.md",
-    "Python/peewee/Model方法.md",
-    "Python/peewee/Meta方法.md",
-    "运维/命令/shuf.md",
-    "Git/git status 中文.md",
-    "SQL/MySQL/Xtrabackup.md",
-    "Lua/Installnation.md",
-    "其他/硬件防火墙.md",
-    "运维/压力测试指标.md",
     "odoo",
     "Docker/images/odoo-17.0.tar9",
     "Docker/images/odoo-17.0.tar8",
