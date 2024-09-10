@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024年-09月03日工作记录.md",
+                "file": "公司/服务器记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "odoo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024年-09月03日工作记录.md",
+                "file": "公司/服务器记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024年-09月03日工作记录.md",
+                "file": "公司/服务器记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024年-09月03日工作记录.md"
+                "file": "公司/服务器记录.md"
               }
             }
           },
@@ -160,6 +159,7 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
+    "DailyNotes/2024年-09月03日工作记录.md",
     "源.md",
     "Python/conda.md",
     "DailyNotes/2024年-09月04日工作记录.md",
@@ -186,7 +186,6 @@
     "Docker/Linux 普通用户使用Docker.md",
     "Docker/Gitlab-ce  社区版.md",
     "运维/包管理/依赖获取，离线包下载.md",
-    "运维/包管理/apt apt-get apt-cache.md",
     "odoo",
     "Docker/images/odoo-17.0.tar9",
     "Docker/images/odoo-17.0.tar8",
