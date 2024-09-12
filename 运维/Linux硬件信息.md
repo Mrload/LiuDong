@@ -62,3 +62,5 @@ sdb               8:16   0  26.2T  0 disk
 sr0              11:0    1  1024M  0 rom
 ```
 
+# screenfetch
+

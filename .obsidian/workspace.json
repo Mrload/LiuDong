@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公司/服务器记录.md",
+                "file": "公司/GPU开发板.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公司/服务器记录.md",
+                "file": "公司/GPU开发板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公司/服务器记录.md",
+                "file": "公司/GPU开发板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公司/服务器记录.md"
+                "file": "公司/GPU开发板.md"
               }
             }
           },
@@ -159,8 +159,11 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "运维/Linux 尖号M的问题.md",
+    "运维/Linux硬件信息.md",
+    "公司/GPU开发板.md",
+    "Python/Nuitka.md",
     "公司/服务器记录.md",
+    "运维/Linux 尖号M的问题.md",
     "DailyNotes/2024年-09月03日工作记录.md",
     "源.md",
     "Python/conda.md",
@@ -178,14 +181,11 @@
     "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
     "Python/编译为动态库 pyd或so文件.md",
     "Python/pyinstaller.md",
-    "Python/Nuitka.md",
     "Docker/镜像本地导出与导入.md",
     "Docker/离线安装.md",
     "Docker/ubuntu 安装docker.md",
     "Docker/命令.md",
     "Docker/Docker备份Mysql.md",
-    "Docker/Linux 普通用户使用Docker.md",
-    "Docker/Gitlab-ce  社区版.md",
     "odoo",
     "Docker/images/odoo-17.0.tar9",
     "Docker/images/odoo-17.0.tar8",
