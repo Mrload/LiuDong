@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公司/GPU开发板.md",
+                "file": "运维/wsl2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公司/GPU开发板.md",
+                "file": "运维/wsl2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公司/GPU开发板.md",
+                "file": "运维/wsl2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公司/GPU开发板.md"
+                "file": "运维/wsl2.md"
               }
             }
           },
@@ -138,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +158,9 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "运维/Linux硬件信息.md",
     "公司/GPU开发板.md",
+    "运维/wsl2.md",
+    "运维/Linux硬件信息.md",
     "Python/Nuitka.md",
     "公司/服务器记录.md",
     "运维/Linux 尖号M的问题.md",
@@ -185,7 +185,6 @@
     "Docker/离线安装.md",
     "Docker/ubuntu 安装docker.md",
     "Docker/命令.md",
-    "Docker/Docker备份Mysql.md",
     "odoo",
     "Docker/images/odoo-17.0.tar9",
     "Docker/images/odoo-17.0.tar8",
