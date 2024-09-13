@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2024年-09月12日工作记录.md",
+                "file": "公司/SE7-硬件测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2024年-09月12日工作记录.md",
+                "file": "公司/SE7-硬件测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2024年-09月12日工作记录.md",
+                "file": "公司/SE7-硬件测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2024年-09月12日工作记录.md"
+                "file": "公司/SE7-硬件测试.md"
               }
             }
           },
@@ -158,8 +158,15 @@
   },
   "active": "97302ba19cd503e3",
   "lastOpenFiles": [
-    "公司/缺陷.md",
+    "运维/性能测试.md",
+    "公司/SE7-硬件测试.md",
+    "未命名.md",
+    "Docker/镜像本地导出与导入.md",
+    "Docker/指定digest.md",
+    "Docker/ubuntu 安装docker.md",
+    "源.md",
     "DailyNotes/2024年-09月12日工作记录.md",
+    "公司/缺陷.md",
     "公司/鼠害平台后端API接口-简版.md",
     "运维/wsl2.md",
     "公司/GPU开发板.md",
@@ -168,7 +175,6 @@
     "公司/服务器记录.md",
     "运维/Linux 尖号M的问题.md",
     "DailyNotes/2024年-09月03日工作记录.md",
-    "源.md",
     "Python/conda.md",
     "DailyNotes/2024年-09月04日工作记录.md",
     "Pasted image 20240904092410.png.md",
@@ -179,12 +185,6 @@
     "公司/工作内容.md",
     "Pasted image 20240904092410.png",
     "Docker/Dockerfile.md",
-    "运维/命令/ip.md",
-    "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
-    "Python/编译为动态库 pyd或so文件.md",
-    "Python/pyinstaller.md",
-    "Docker/镜像本地导出与导入.md",
-    "Docker/离线安装.md",
     "odoo",
     "Docker/images/odoo-17.0.tar9",
     "Docker/images/odoo-17.0.tar8",
