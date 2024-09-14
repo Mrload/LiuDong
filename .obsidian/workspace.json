@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/aria2c.md",
+                "file": "公司/服务器记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/aria2c.md",
+                "file": "公司/服务器记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/aria2c.md",
+                "file": "公司/服务器记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/aria2c.md"
+                "file": "公司/服务器记录.md"
               }
             }
           },
@@ -169,11 +169,18 @@
   },
   "active": "b3f88ba267ac29d3",
   "lastOpenFiles": [
-    "wsl/wsl.md",
+    "DailyNotes/Tasks.md",
+    "公司/GPU开发板.md",
+    "DailyNotes/2024年-08月26日工作记录.md",
+    "DailyNotes/2024年-08月28日工作记录.md",
+    "DailyNotes/2024年-09月02日工作记录.md",
+    "DailyNotes/2024年-09月03日工作记录.md",
+    "DailyNotes/2024年-09月10日工作记录.md",
+    "DailyNotes/2024年-09月12日工作记录.md",
     "运维/aria2c.md",
+    "wsl/wsl.md",
     "公司/鼠害平台后端API接口-简版.md",
     "公司/SE7-硬件测试.md",
-    "公司/GPU开发板.md",
     "公司/images/Pasted image 20240913130911.png",
     "公司/images/Pasted image 20240913131238.png",
     "公司/images/Pasted image 20240913131358.png",
@@ -186,21 +193,14 @@
     "Docker/指定digest.md",
     "Docker/ubuntu 安装docker.md",
     "源.md",
-    "DailyNotes/2024年-09月12日工作记录.md",
     "公司/缺陷.md",
     "运维/wsl2.md",
     "运维/Linux硬件信息.md",
     "Python/Nuitka.md",
     "公司/服务器记录.md",
     "运维/Linux 尖号M的问题.md",
-    "DailyNotes/2024年-09月03日工作记录.md",
     "Python/conda.md",
     "DailyNotes/2024年-09月04日工作记录.md",
-    "Pasted image 20240904092410.png.md",
-    "DailyNotes/2024年-09月09日工作记录.md",
-    "DailyNotes/2024年-09月10日工作记录.md",
-    "公司/离线部署脚本.md",
-    "公司/国际动植物疫情风险预警平台.md",
     "Pasted image 20240904092410.png",
     "odoo",
     "Docker/images/odoo-17.0.tar9",
