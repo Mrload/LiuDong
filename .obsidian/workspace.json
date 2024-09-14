@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wsl/wsl.md",
-                "mode": "preview",
+                "file": "运维/aria2c.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wsl/wsl.md",
+                "file": "运维/aria2c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wsl/wsl.md",
+                "file": "运维/aria2c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wsl/wsl.md"
+                "file": "运维/aria2c.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "b3f88ba267ac29d3",
   "lastOpenFiles": [
+    "wsl/wsl.md",
+    "运维/aria2c.md",
     "公司/鼠害平台后端API接口-简版.md",
     "公司/SE7-硬件测试.md",
     "公司/GPU开发板.md",
@@ -199,7 +201,6 @@
     "DailyNotes/2024年-09月10日工作记录.md",
     "公司/离线部署脚本.md",
     "公司/国际动植物疫情风险预警平台.md",
-    "公司/工作内容.md",
     "Pasted image 20240904092410.png",
     "odoo",
     "Docker/images/odoo-17.0.tar9",
