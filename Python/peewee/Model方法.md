@@ -16,6 +16,19 @@ DModel.get_by_id(pk)
 DModel.get(DModel.id == pk)
 ```
 
+# update
+
+```bash
+# 返回一个sql
+sql = DModel.update(DModel.Field1="xx").where(DModel.Field2 == "xxxxx")
+# 返回收到影响的row数量
+modified_rows_num = sql.execute()
+```
+
+> 原子更新
+> `update(DModel.Field1=DModel.Fielld2+"ABC")`
+
+
 # 批量更新 bulk_update
 
 ```python

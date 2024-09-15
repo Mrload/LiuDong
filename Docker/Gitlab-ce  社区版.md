@@ -11,6 +11,8 @@ docker run \
 -v /data/users/yuncoder03/gitlab/etc:/etc/gitlab  \
 -v /data/users/yuncoder03/gitlab/log:/var/log/gitlab \
 -v /data/users/yuncoder03/gitlab/opt:/var/opt/gitlab \
+--log-opt max-size=100m \
+--log-opt max-file=3 \
 --restart always \
 --privileged=true \
 --name gitlab \
@@ -34,6 +36,10 @@ gitlab/gitlab-ce
 --privileged=true  让容器获取宿主机root权限
 
 --name gitlab-test  设置容器名称为gitlab
+
+--log-opt max-size=2G  限制日志文件大小 /var/lib/docker/containers/xxx/xxx-json.log
+
+--log-opt max-file=3  限制日志文件的数量为 3 个
 
 gitlab/gitlab-ce  镜像的名称，这里也可以写镜像ID
 '''
