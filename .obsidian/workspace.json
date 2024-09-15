@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2280f156e27c8302",
+        "id": "6f3ee59414eb392a",
         "type": "tabs",
         "children": [
           {
-            "id": "f68ad27942c71778",
+            "id": "d13a529bb1612862",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "镜像源.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "镜像源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "镜像源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "镜像源.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,12 +140,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f68ad27942c71778",
+  "active": "d13a529bb1612862",
   "lastOpenFiles": [
+    "Docker/Devices cgroup isn't mounted 导致docker启动失败.md",
+    "Docker/Installnation.md",
+    "运维/alpine/rc-service  not systemctl.md",
+    "运维/alpine/usermode not found.md",
+    "运维/alpine",
+    "运维/sudo.md",
+    "镜像源.md",
     "Python/odoo/Installnation.md",
     "Git/git.md",
     "Python/odoo",
-    "镜像源.md",
     "Linux/挖矿病毒事件.md",
     "运维/网络/ssh隧道【ssh端口转发】.md",
     "运维/网络/openvpn网对网配置记录.md",
@@ -172,11 +170,6 @@
     "运维/基础命令/ss命令.md",
     "运维/基础命令/split.md",
     "运维/基础命令/shuf.md",
-    "运维/基础命令/scp.md",
-    "运维/基础命令/rsync.md",
-    "运维/基础命令/host.md",
-    "运维/基础命令/grep.md",
-    "运维/基础命令/find.md",
     "运维/网络",
     "运维/监控",
     "运维/安全 漏洞",
@@ -185,7 +178,6 @@
     "运维/nginx",
     "运维/kali",
     "运维",
-    "wsl",
     "assets/imgs/数据包走向.webp",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
