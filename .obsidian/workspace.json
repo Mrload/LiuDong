@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wsl/wsl.md",
+                "file": "源.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wsl/wsl.md",
+                "file": "源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wsl/wsl.md",
+                "file": "源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wsl/wsl.md"
+                "file": "源.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "0baa6240fdc334ff",
   "lastOpenFiles": [
+    "Docker/ubuntu 安装docker.md",
+    "wsl/wsl.md",
     "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
     "conflict-files-obsidian-git.md",
     "运维/性能测试.md",
@@ -176,8 +178,6 @@
     "运维/wsl2.md",
     "运维/wkhtmltopdf.md",
     "运维/vsftpd.md",
-    "运维/aria2c.md",
-    "源.md",
     "运维/alpine",
     "Python/odoo",
     "运维/网络",
