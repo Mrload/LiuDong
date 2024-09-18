@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "799ca24611f2eba1",
+        "id": "b0be1ac381ac17a3",
         "type": "tabs",
         "children": [
           {
-            "id": "0baa6240fdc334ff",
+            "id": "97302ba19cd503e3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "公司/images/Pasted image 20240913131131.png"
+              }
+            }
+          },
+          {
+            "id": "b3f88ba267ac29d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "源.md",
+                "file": "运维/配置 .bashrc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "源.md",
+                "file": "运维/配置 .bashrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "源.md",
+                "file": "运维/配置 .bashrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +136,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "源.md"
+                "file": "运维/配置 .bashrc.md"
               }
+            }
+          },
+          {
+            "id": "86adff53c6def474",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -134,62 +153,68 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "0baa6240fdc334ff",
+  "active": "b3f88ba267ac29d3",
   "lastOpenFiles": [
-    "Docker/ubuntu 安装docker.md",
-    "wsl/wsl.md",
-    "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
-    "conflict-files-obsidian-git.md",
-    "运维/性能测试.md",
-    "运维/命令/组合命令两种方式.md",
-    "运维/命令/xargs.md",
-    "运维/命令/tree.md",
-    "运维/命令/tar.md",
-    "运维/命令/ss命令.md",
-    "运维/命令/split.md",
-    "运维/命令/shuf.md",
-    "运维/命令/scp.md",
-    "运维/命令/rsync.md",
-    "运维/命令/mount.md",
-    "运维/命令/ip.md",
-    "运维/命令/host.md",
-    "运维/命令/grep.md",
-    "运维/命令/find.md",
-    "运维/命令/ab命令.md",
-    "运维/命令",
-    "运维/压力测试指标.md",
-    "运维/包管理/依赖获取，离线包下载.md",
-    "运维/包管理/apt apt-get apt-cache.md",
-    "运维/包管理",
-    "运维/wsl2.md",
-    "运维/wkhtmltopdf.md",
-    "运维/vsftpd.md",
+    "运维/配置- .screenrc.md",
+    "运维/配置 .bashrc.md",
+    "公司/服务器记录.md",
+    "运维/sudo.md",
+    "运维/alpine/usermode not found.md",
+    "运维/alpine/rc-service  not systemctl.md",
     "运维/alpine",
-    "Python/odoo",
-    "运维/网络",
-    "运维/监控",
-    "运维/安全 漏洞",
-    "运维/基础命令",
-    "运维/ssh",
-    "运维/nginx",
-    "assets/imgs/数据包走向.webp",
+    "Docker/Installnation.md",
+    "Docker/Devices cgroup isn't mounted 导致docker启动失败.md",
+    "DailyNotes/Tasks.md",
+    "公司/GPU开发板.md",
+    "DailyNotes/2024年-08月26日工作记录.md",
+    "DailyNotes/2024年-08月28日工作记录.md",
+    "DailyNotes/2024年-09月02日工作记录.md",
+    "DailyNotes/2024年-09月03日工作记录.md",
+    "DailyNotes/2024年-09月10日工作记录.md",
+    "DailyNotes/2024年-09月12日工作记录.md",
+    "运维/aria2c.md",
+    "wsl/wsl.md",
+    "公司/鼠害平台后端API接口-简版.md",
+    "公司/SE7-硬件测试.md",
+    "公司/images/Pasted image 20240913130911.png",
+    "公司/images/Pasted image 20240913131238.png",
+    "公司/images/Pasted image 20240913131358.png",
+    "公司/images/Pasted image 20240913131324.png",
+    "公司/images/Pasted image 20240913131131.png",
+    "公司/images",
+    "运维/性能测试.md",
+    "未命名.md",
+    "Docker/镜像本地导出与导入.md",
+    "Docker/指定digest.md",
+    "Docker/ubuntu 安装docker.md",
+    "源.md",
+    "Pasted image 20240904092410.png",
+    "odoo",
+    "Docker/images/odoo-17.0.tar9",
+    "Docker/images/odoo-17.0.tar8",
+    "Docker/images/odoo-17.0.tar7",
+    "Docker/images/odoo-17.0.tar6",
+    "Docker/images/odoo-17.0.tar5",
+    "Docker/images/odoo-17.0.tar4",
+    "Docker/images/odoo-17.0.tar3",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/obsidian-git-config1.png",
-    "imgs/数据包走向.webp",
+    "assets/imgs/数据包走向.webp",
+    "assets/imgs/obsidian-git-config.png",
     "未命名.canvas"
   ]
 }
