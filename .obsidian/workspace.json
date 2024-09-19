@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97302ba19cd503e3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "公司/images/Pasted image 20240913131131.png"
-              }
-            }
-          },
-          {
-            "id": "b3f88ba267ac29d3",
+            "id": "8792cc35762774f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/配置 .bashrc.md",
+                "file": "国际动植物疫情风险预警模型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/配置 .bashrc.md",
+                "file": "国际动植物疫情风险预警模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/配置 .bashrc.md",
+                "file": "国际动植物疫情风险预警模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/配置 .bashrc.md"
+                "file": "国际动植物疫情风险预警模型.md"
               }
             }
           },
@@ -167,10 +156,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b3f88ba267ac29d3",
+  "active": "8792cc35762774f8",
   "lastOpenFiles": [
-    "运维/配置- .screenrc.md",
+    "公司/images/Pasted image 20240913131131.png",
+    "国际动植物疫情风险预警模型.md",
     "运维/配置 .bashrc.md",
+    "运维/配置- .screenrc.md",
     "公司/服务器记录.md",
     "运维/sudo.md",
     "运维/alpine/usermode not found.md",
@@ -194,14 +185,11 @@
     "公司/images/Pasted image 20240913131238.png",
     "公司/images/Pasted image 20240913131358.png",
     "公司/images/Pasted image 20240913131324.png",
-    "公司/images/Pasted image 20240913131131.png",
     "公司/images",
     "运维/性能测试.md",
-    "未命名.md",
     "Docker/镜像本地导出与导入.md",
     "Docker/指定digest.md",
     "Docker/ubuntu 安装docker.md",
-    "源.md",
     "Pasted image 20240904092410.png",
     "odoo",
     "Docker/images/odoo-17.0.tar9",
