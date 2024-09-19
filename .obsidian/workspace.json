@@ -151,6 +151,7 @@
   "active": "0baa6240fdc334ff",
   "lastOpenFiles": [
     "Docker/ubuntu 安装docker.md",
+    "源.md",
     "wsl/wsl.md",
     "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
     "conflict-files-obsidian-git.md",
@@ -177,7 +178,6 @@
     "运维/包管理",
     "运维/wsl2.md",
     "运维/wkhtmltopdf.md",
-    "运维/vsftpd.md",
     "运维/alpine",
     "Python/odoo",
     "运维/网络",
