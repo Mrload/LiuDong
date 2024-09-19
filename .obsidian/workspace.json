@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "源.md",
+                "file": "运维/wsl2.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wsl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "源.md",
+                "file": "运维/wsl2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "源.md",
+                "file": "运维/wsl2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "源.md"
+                "file": "运维/wsl2.md"
               }
             }
           }
@@ -150,14 +151,15 @@
   },
   "active": "0baa6240fdc334ff",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "wsl/wsl.md",
+    "运维/wsl2.md",
     "源.md",
+    "conflict-files-obsidian-git.md",
     "运维/配置 bashrc.md",
     "运维/条件判断.md",
     "运维/windows/robocopy.md",
     "运维/windows",
     "Docker/ubuntu 安装docker.md",
-    "wsl/wsl.md",
     "其他/Chrome浏览器崩溃“STATUS_INVALID_IMAGE_HASH”.md",
     "运维/性能测试.md",
     "运维/命令/组合命令两种方式.md",
@@ -177,7 +179,6 @@
     "运维/命令/ab命令.md",
     "运维/命令",
     "运维/压力测试指标.md",
-    "运维/包管理/依赖获取，离线包下载.md",
     "运维/包管理",
     "运维/alpine",
     "Python/odoo",
