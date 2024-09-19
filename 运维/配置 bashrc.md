@@ -18,5 +18,7 @@ fi
 unset PATH_DIR
 
 # bash prompt
-export PS1='\[\e[92m\][\A]-[\j]-[\u@\h:\w]\n└─\$ \[\e[0m\]'
+# conda 配置不修改ps1
+conda config --set changeps1 false
+export PS1='\[\e[38;5;208m\]┌──[\A]-[$CONDA_DEFAULT_ENV]-[\j]-[\u@\h:\w]\n└─\$ \[\e[0m\]'
 ```
