@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wsl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +148,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0baa6240fdc334ff",
+  "active": "d17e1cdbf045df2b",
   "lastOpenFiles": [
     "wsl/wsl.md",
     "运维/wsl2.md",
