@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5aeb188ab96a4057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公司/国际动植物疫情风险预警模型数据梳理.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公司/国际动植物疫情风险预警模型数据梳理.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公司/国际动植物疫情风险预警模型数据梳理.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,14 +169,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8792cc35762774f8",
+  "active": "5aeb188ab96a4057",
   "lastOpenFiles": [
+    "公司/国际动植物疫情风险预警模型数据梳理.md",
+    "conflict-files-obsidian-git.md",
     "运维/配置 bashrc.md",
     "运维/条件判断.md",
     "Shell/变量.md",
     "Shell/脚本/按需求合并文件夹.md",
     "运维/windows/robocopy.md",
-    "公司/国际动植物疫情风险预警模型数据梳理.md",
     "运维/windows",
     "公司/国际动植物疫情风险预警平台.md",
     "公司/服务器记录.md",
@@ -186,7 +200,6 @@
     "DailyNotes/2024年-09月02日工作记录.md",
     "DailyNotes/2024年-09月03日工作记录.md",
     "DailyNotes/2024年-09月10日工作记录.md",
-    "DailyNotes/2024年-09月12日工作记录.md",
     "公司/images/Pasted image 20240913130911.png",
     "公司/images/Pasted image 20240913131238.png",
     "公司/images/Pasted image 20240913131358.png",
