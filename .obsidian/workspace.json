@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/配置 bashrc.md",
+                "file": "公司/国际动植物疫情风险预警模型数据梳理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "运维/配置 bashrc.md",
+                "file": "公司/国际动植物疫情风险预警模型数据梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "运维/配置 bashrc.md",
+                "file": "公司/国际动植物疫情风险预警模型数据梳理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/配置 bashrc.md"
+                "file": "公司/国际动植物疫情风险预警模型数据梳理.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "8792cc35762774f8",
   "lastOpenFiles": [
+    "运维/配置 bashrc.md",
     "运维/条件判断.md",
     "Shell/变量.md",
     "Shell/脚本/按需求合并文件夹.md",
-    "运维/配置 bashrc.md",
     "运维/windows/robocopy.md",
     "公司/国际动植物疫情风险预警模型数据梳理.md",
     "运维/windows",
