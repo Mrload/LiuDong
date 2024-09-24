@@ -19,6 +19,7 @@ wsl --update
 ```toml
 [wsl2]
 networkingMode=mirrored
+dnsTunneling=true
 ```
 
 ## wsl.conf
