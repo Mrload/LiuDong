@@ -64,3 +64,6 @@ sr0              11:0    1  1024M  0 rom
 
 # screenfetch
 
+# neofetch
+
+
