@@ -24,7 +24,7 @@ qemu-system-aarch64.exe `
 ## 启动
 
 ```powershell
-qemu-system-aarch64.ext `
+qemu-system-aarch64.exe `
 -m 8G `
 -cpu cortex-a72 `
 --accel tcg,thread=multi `

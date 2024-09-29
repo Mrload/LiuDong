@@ -47,50 +47,22 @@ qemu-system-aarch64.exe -cpu help
 
 Available CPUs:
   a64fx
-  arm1026
-  arm1136
-  arm1136-r2
-  arm1176
-  arm11mpcore
-  arm926
+  ...
   arm946
-  cortex-a15
-  cortex-a35
-  cortex-a53
-  cortex-a55
-  cortex-a57
   cortex-a7
-  cortex-a72
-  cortex-a76
-  cortex-a8
-  cortex-a9
-  cortex-m0
-  cortex-m3
-  cortex-m33
-  cortex-m4
-  cortex-m55
-  cortex-m7
-  cortex-r5
-  cortex-r52
-  cortex-r5f
-  max
-  neoverse-n1
-  pxa250
-  pxa255
-  pxa260
-  pxa261
-  pxa262
-  pxa270-a0
-  pxa270-a1
-  pxa270
-  pxa270-b0
-  pxa270-b1
-  pxa270-c0
-  pxa270-c5
-  sa1100
-  sa1110
-  ti925t
+  ...
 ```
+
+> `-smp`  CPU参数
+> `-smp [[cpus=]n][,maxcpus=maxcpus][,sockets=sockets][,dies=dies][,clusters=clusters][,cores=cores][,threads=threads]`
+
+>	n: 虚拟CPU(vcpu)的个数，每个thread都视为一个虚拟CPU
+>	sockets:CPU插槽数目，也就是CPU的个数
+>	threads： 每个CPU核心拥有的线程数目
+>	cores: 每个CPU拥有的CPU核心数目
+>	maxcpus: 根据文档，是设置可热插拔的CPU数量，经测试，n的值不可超过maxcpus
+>	总的cores数目=cores x sockets，总的threads数目=总的cores数目 x threads
+
 # 安装 qemu-system-xxx
 
 ```powershell
