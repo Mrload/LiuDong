@@ -1,13 +1,96 @@
 
 # qemu-img
 
-> create 创建空白硬盘
+> `create` 创建空白硬盘
+> 	-f 指定硬盘类型
+> 		qcow2  支持压缩和加密
+> 		qcow
+> 		raw  一次性分配空间，空间足够的话，理论上性能最好
+
 
 ```bash
 qemu-img create -f qcow2 alpine_disk 8G
 
 ```
 
+# qemu-system-xxx
+
+> `-M` `-machine` 选择仿真机器
+
+```powershell
+qemu-system-aarch64 -M help
+
+Supported machines are:
+...
+# 树莓派
+raspi0               Raspberry Pi Zero (revision 1.2)
+raspi1ap             Raspberry Pi A+ (revision 1.1)
+raspi2b              Raspberry Pi 2B (revision 1.1)
+raspi3ap             Raspberry Pi 3A+ (revision 1.0)
+raspi3b              Raspberry Pi 3B (revision 1.2)
+# 通用 ARM6 ARM7 ARM8
+virt-6.0             QEMU 6.0 ARM Virtual Machine
+virt-6.1             QEMU 6.1 ARM Virtual Machine
+virt-6.2             QEMU 6.2 ARM Virtual Machine
+virt-7.0             QEMU 7.0 ARM Virtual Machine
+virt-7.1             QEMU 7.1 ARM Virtual Machine
+virt-7.2             QEMU 7.2 ARM Virtual Machine
+virt                 QEMU 8.0 ARM Virtual Machine (alias of virt-8.0)
+virt-8.0             QEMU 8.0 ARM Virtual Machine
+...
+```
+
+> `-cpu` 选择CPU
+
+```powershell
+qemu-system-aarch64.exe -cpu help
+
+Available CPUs:
+  a64fx
+  arm1026
+  arm1136
+  arm1136-r2
+  arm1176
+  arm11mpcore
+  arm926
+  arm946
+  cortex-a15
+  cortex-a35
+  cortex-a53
+  cortex-a55
+  cortex-a57
+  cortex-a7
+  cortex-a72
+  cortex-a76
+  cortex-a8
+  cortex-a9
+  cortex-m0
+  cortex-m3
+  cortex-m33
+  cortex-m4
+  cortex-m55
+  cortex-m7
+  cortex-r5
+  cortex-r52
+  cortex-r5f
+  max
+  neoverse-n1
+  pxa250
+  pxa255
+  pxa260
+  pxa261
+  pxa262
+  pxa270-a0
+  pxa270-a1
+  pxa270
+  pxa270-b0
+  pxa270-b1
+  pxa270-c0
+  pxa270-c5
+  sa1100
+  sa1110
+  ti925t
+```
 # 安装 qemu-system-xxx
 
 ```powershell
@@ -77,5 +160,4 @@ qemu-system-aarch64 \
 > 支持的设备列表
 
 
-# window aarch64 kylin-v10-sp3
-
+```
