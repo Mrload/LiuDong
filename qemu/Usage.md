@@ -76,3 +76,6 @@ qemu-system-aarch64 \
 > -device help
 > 支持的设备列表
 
+
+# window aarch64 kylin-v10-sp3
+
