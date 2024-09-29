@@ -23,6 +23,11 @@ qemu-system-aarch64.exe `
 
 ## 启动
 
+### 旧的
+
+> 网络模式
+> ssh端口转发？宿主机的2222转发给虚拟机的22
+
 ```powershell
 qemu-system-aarch64.exe `
 -m 8G `
@@ -39,4 +44,26 @@ qemu-system-aarch64.exe `
 -drive if=virtio,file=kylin_arm64.img,id=hd0,format=raw,media=disk `
 -net nic,model=virtio `
 -net user,hostfwd=tcp::2222-:22
+```
+
+### 新的
+
+> 使用虚拟网卡桥接,`tap1212` 这张网卡需要提前创建,并且和上网网卡桥接。
+
+```powershell
+qemu-system-aarch64.exe `
+-m 8G `
+-cpu cortex-a72 `
+--accel tcg,thread=multi `
+-M virt `
+-bios QEMU_EFI.fd `
+-rtc base=localtime `
+-display sdl `
+-device VGA `
+-device nec-usb-xhci `
+-device usb-tablet `
+-device usb-kbd `
+-drive if=virtio,file=kylin_arm64.img,id=hd0,format=raw,media=disk `
+-net nic `
+-net tap,ifname=tap1212
 ```
