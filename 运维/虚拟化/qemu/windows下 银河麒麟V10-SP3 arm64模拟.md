@@ -46,6 +46,22 @@ qemu-system-aarch64.exe `
 -net user,hostfwd=tcp::2222-:22
 ```
 
+```powershell
+qemu-system-aarch64.exe `
+-m 8G `
+-cpu cortex-a72 `
+-smp 8`
+-M virt `
+-bios QEMU_EFI.fd `
+-display sdl `
+-device VGA `
+-device nec-usb-xhci `
+-device usb-tablet `
+-device usb-kbd `
+-drive if=virtio,file=kylin_arm64.img,id=hd0,format=raw,media=disk `
+-net nic,model=virtio `
+-net user,hostfwd=tcp::2222-:22
+```
 ### 网络模式二
 
 #TODO:没能成功联网
