@@ -50,7 +50,7 @@ qemu-system-aarch64.exe `
 qemu-system-aarch64.exe `
 -m 8G `
 -cpu cortex-a72 `
--smp 8`
+-smp 8 `
 -M virt `
 -bios QEMU_EFI.fd `
 -display sdl `
