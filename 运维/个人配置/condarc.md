@@ -21,5 +21,5 @@ changeps1: false
 
 ```bash
 # conda 配置不修改ps1
-conda config --set changeps0 false
+conda config --set changeps1 false
 ```
