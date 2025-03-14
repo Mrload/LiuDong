@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公司/项目/海关-口岸外来入侵物种/部署脚本.md",
+                "file": "运维/nginx/安装 SSL 配置 HTTPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "部署脚本"
+              "title": "安装 SSL 配置 HTTPS"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nginx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公司/项目/海关-口岸外来入侵物种/部署脚本.md",
+                "file": "运维/nginx/安装 SSL 配置 HTTPS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "部署脚本 的大纲"
+              "title": "安装 SSL 配置 HTTPS 的大纲"
             }
           },
           {
@@ -181,6 +181,11 @@
   },
   "active": "0752179ea3a476d3",
   "lastOpenFiles": [
+    "运维/nginx/nginx解决跨域问题的两个方法.md",
+    "运维/nginx/安装 SSL 配置 HTTPS.md",
+    "公司/日志/2025-03-14.md",
+    "公司/项目/公司-中间接口/物联网平台7878调整需求及转发接口文档.md",
+    "公司/项目/海关-口岸外来入侵物种/部署脚本.md",
     "公司/项目/海关-国门生物安全系统/-记录.md",
     "公司/项目/硬件-边缘服务器/AI300G/开发板定制需求.md",
     "公司/项目/硬件-边缘服务器/AI300G/AI300G.md",
@@ -191,7 +196,6 @@
     "公司/项目/病媒项目-卫勤所开发板/开发板文档20241205.md",
     "公司/项目/病媒项目-卫勤所开发板/开发板流程需求.md",
     "公司/项目/病媒项目-卫勤所开发板/部署流程.md",
-    "公司/项目/公司-中间接口/物联网平台7878调整需求及转发接口文档.md",
     "公司/项目/公司-中间接口/-记录.md",
     "公司/项目/公司-ERP/-记录.md",
     "公司/项目/海关-国际动植物疫情/-记录.md",
@@ -203,10 +207,6 @@
     "运维/命令/find.md",
     "运维/命令/组合命令两种方式.md",
     "运维/个人配置/配置- .screenrc.md",
-    "运维/包管理/pacman.md",
-    "运维/包管理/apt apt-get apt-cache.md",
-    "Docker/跨构架平台运行.md",
-    "Docker/空间占用.md",
     "公司/项目/公司-生物多样性平台",
     "assets/imgs/Pasted image 20250312104107.png",
     "assets/imgs/Pasted image 20250312102909.png",
