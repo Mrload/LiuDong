@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/nginx/安装 SSL 配置 HTTPS.md",
+                "file": "运维/命令/split.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "安装 SSL 配置 HTTPS"
+              "title": "split"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nginx",
+                "query": "split",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "运维/nginx/安装 SSL 配置 HTTPS.md",
+                "file": "运维/命令/split.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "安装 SSL 配置 HTTPS 的大纲"
+              "title": "split 的大纲"
             }
           },
           {
@@ -179,10 +179,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0752179ea3a476d3",
+  "active": "d17e1cdbf045df2b",
   "lastOpenFiles": [
-    "运维/nginx/nginx解决跨域问题的两个方法.md",
     "运维/nginx/安装 SSL 配置 HTTPS.md",
+    "运维/nginx/nginx解决跨域问题的两个方法.md",
     "公司/日志/2025-03-14.md",
     "公司/项目/公司-中间接口/物联网平台7878调整需求及转发接口文档.md",
     "公司/项目/海关-口岸外来入侵物种/部署脚本.md",
