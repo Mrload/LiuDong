@@ -20,8 +20,6 @@
 1. **停止跟踪文件**  
     从 Git 的暂存区（索引）中移除该文件，但保留本地文件：
     
-    bash
-    
     ```bash
     git rm --cached <文件路径>
     ```
@@ -29,7 +27,6 @@
 2. **提交删除操作**  
     将移除操作提交到仓库：
     
-    bash
     
     ```bash
     git commit -m "停止跟踪文件：<文件路径>"
@@ -69,7 +66,6 @@
 3. **运行命令删除文件**  
     使用 `git-filter-repo` 删除所有历史中的目标文件：
     
-    bash
     
     ```bash
     git filter-repo --path <文件路径> --invert-paths
@@ -77,7 +73,6 @@
     
     **示例**：删除所有提交中的 `secret.key` 文件：
     
-    bash
     
     ```bash
     git filter-repo --path secret.key --invert-paths
@@ -85,8 +80,6 @@
     
 4. **强制推送（如果关联远程仓库）**  
     本地历史修改后，需要强制推送到远程仓库（**慎用**）：
-    
-    bash
     
     ```bash
     git push origin --force --all
