@@ -2,4 +2,5 @@
 /公司/
 *.tar
 *.gz
+/.obsidian/workspace.json
 
