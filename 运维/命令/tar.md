@@ -169,7 +169,8 @@ tar xf a.tar.xz
 
 10、.zip
 解压：unzip FileName.zip
-压缩：zip FileName.zip DirName
+压缩：`zip FileName.zip FileName`
+压缩：`zip -r DirName.zip DirName`
 
 11、.rar
 解压：rar x FileName.rar
