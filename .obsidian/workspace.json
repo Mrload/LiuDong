@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "05c8c0cd864a6ca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "33f5646e98998534",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f852922fd1cc2f88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公司/算法接口记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "算法接口记录"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18077152be2b986b",
+    "type": "split",
+    "children": [
+      {
+        "id": "15638066c02e70a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d17e1cdbf045df2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "684c1113bfbd1482",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "split",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b297bd190ba766c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "7fedb53b400cd8c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fde6cd7c1c8a1b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cda3f5432c369e3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "公司/海关-外来入侵物种/部署脚本.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "部署脚本 的反向链接列表"
+            }
+          },
+          {
+            "id": "c26513274257402e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "公司/海关-外来入侵物种/部署脚本.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "部署脚本 的出链列表"
+            }
+          },
+          {
+            "id": "2d14ebc9843a3930",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e059abe518934c50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "公司/算法接口记录.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "算法接口记录 的大纲"
+            }
+          },
+          {
+            "id": "86adff53c6def474",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "f852922fd1cc2f88",
+  "lastOpenFiles": [
+    "运维/Nerd Font Install.md",
+    "Python/没有pip.md",
+    "Python/Ruff.md",
+    "Golang/01-基础命令.md",
+    "公司/项目/公司-中间接口/物联网平台7878调整需求及转发接口文档.md",
+    "公司/算法接口记录.md",
+    "公司/项目/公司-中间接口/历史数据/中间接口文档-用户版-20241224.md",
+    "公司/项目/公司-中间接口/历史数据/中间接口.md",
+    "公司/项目/公司-中间接口/历史数据/鼠害平台后端API接口-简版.md",
+    "公司/项目/公司-中间接口/-记录.md",
+    "运维/命令/split.md",
+    "运维/nginx/安装 SSL 配置 HTTPS.md",
+    "运维/nginx/nginx解决跨域问题的两个方法.md",
+    "公司/日志/2025-03-14.md",
+    "公司/项目/海关-口岸外来入侵物种/部署脚本.md",
+    "公司/项目/海关-国门生物安全系统/-记录.md",
+    "公司/项目/硬件-边缘服务器/AI300G/开发板定制需求.md",
+    "公司/项目/硬件-边缘服务器/AI300G/AI300G.md",
+    "公司/项目/病媒项目-卫勤所开发板/-记录.md",
+    "公司/项目/病媒项目-卫勤所开发板/windows-tftpd64手动部署流程.md",
+    "公司/项目/病媒项目-卫勤所开发板/GPU开发板.md",
+    "公司/项目/病媒项目-卫勤所开发板/用户手册.md",
+    "公司/项目/病媒项目-卫勤所开发板/开发板文档20241205.md",
+    "公司/项目/病媒项目-卫勤所开发板/开发板流程需求.md",
+    "公司/项目/病媒项目-卫勤所开发板/部署流程.md",
+    "公司/项目/公司-ERP/-记录.md",
+    "公司/项目/公司-生物多样性平台",
+    "assets/imgs/Pasted image 20250312104107.png",
+    "assets/imgs/Pasted image 20250312102909.png",
+    "LLM离线部署",
+    "公司/项目/公司-中间接口/历史数据",
+    "公司/项目/硬件-边缘服务器/AI300G",
+    "公司/项目/海关-国际动植物疫情/国际动植物疫情风险预警模型建设建议书-20240918.pdf",
+    "公司/项目/公司-服务器相关",
+    "公司/项目/公司-ERP",
+    "公司/项目/公司-数据采集",
+    "公司/项目/公司-工作台",
+    "公司/项目/硬件-SE7/SE7 32-EA4.pdf",
+    "assets/imgs/obsidian-git-config1.png",
+    "assets/imgs/obsidian-git-config2.png",
+    "assets/imgs/数据包走向.webp",
+    "运维/测试/软件测试/第一章/1_1_大型组织.png",
+    "运维/测试/软件测试/第二章/2_6_语句覆盖.png",
+    "运维/测试/软件测试/第二章/2_7_软件缺陷生命周期.png",
+    "运维/测试/软件测试/第二章/2_7_软件缺陷分布位置饼状图.png",
+    "运维/测试/软件测试/第二章/2_6_条件覆盖_3.png",
+    "未命名.canvas"
+  ]
+}
