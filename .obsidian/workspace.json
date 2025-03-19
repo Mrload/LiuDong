@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/未命名.md",
+                "file": "运维/静态网络配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "静态网络配置"
             }
           }
         ]
@@ -180,7 +180,7 @@
   },
   "active": "f852922fd1cc2f88",
   "lastOpenFiles": [
-    "运维/未命名.md",
+    "运维/静态网络配置.md",
     "运维/Nerd Font Install.md",
     "Python/没有pip.md",
     "Python/Ruff.md",
