@@ -6,11 +6,14 @@
   "blue-topaz-theme@@background-notebook-liked-switch": false,
   "blue-topaz-theme@@toggle-bg-panel-page": false,
   "blue-topaz-theme@@print-h6-color@@light": "#A9A9A9",
-  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-solarized-light",
   "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": false,
-  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false,
+  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": true,
   "blue-topaz-theme@@print-h1-color@@light": "#2C3E50",
   "blue-topaz-theme@@print-h2-color@@light": "#27AE60",
   "blue-topaz-theme@@print-h3-color@@light": "#8E44AD",
-  "blue-topaz-theme@@print-h4-color@@light": "#D35400"
+  "blue-topaz-theme@@print-h4-color@@light": "#D35400",
+  "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
+  "Blue-Topaz-Codebox-Highlight@@blur-codebox-frosted-glass": 0,
+  "Blue-Topaz-Codebox-Highlight@@background-code@@light": "#D3C7F5"
 }
