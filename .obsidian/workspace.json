@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/静态网络配置.md",
+                "file": "运维/条件判断.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "静态网络配置"
+              "title": "条件判断"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "f852922fd1cc2f88",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "运维/后台运行的方式.md",
+    "运维/输入、输出重定向.md",
     "运维/静态网络配置.md",
+    "conflict-files-obsidian-git.md",
     "运维/Nerd Font Install.md",
     "Python/没有pip.md",
     "Python/Ruff.md",
@@ -204,8 +206,6 @@
     "公司/项目/病媒项目-卫勤所开发板/windows-tftpd64手动部署流程.md",
     "公司/项目/病媒项目-卫勤所开发板/GPU开发板.md",
     "公司/项目/病媒项目-卫勤所开发板/用户手册.md",
-    "公司/项目/病媒项目-卫勤所开发板/开发板文档20241205.md",
-    "公司/项目/病媒项目-卫勤所开发板/开发板流程需求.md",
     "公司/项目/公司-生物多样性平台",
     "assets/imgs/Pasted image 20250312104107.png",
     "assets/imgs/Pasted image 20250312102909.png",
