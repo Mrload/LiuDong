@@ -15,5 +15,7 @@
   "blue-topaz-theme@@print-h4-color@@light": "#D35400",
   "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
   "Blue-Topaz-Codebox-Highlight@@blur-codebox-frosted-glass": 0,
-  "Blue-Topaz-Codebox-Highlight@@background-code@@light": "#D3C7F5"
+  "Blue-Topaz-Codebox-Highlight@@background-code@@light": "#E4F1CB",
+  "Blue-Topaz-Codebox-Highlight@@code-active-line-background-color@@light": "#FFF667",
+  "Blue-Topaz-Codebox-Highlight@@background-code-2@@light": "#B6B6AD"
 }
