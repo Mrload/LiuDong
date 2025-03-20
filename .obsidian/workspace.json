@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "运维/条件判断.md",
-                "mode": "source",
+                "file": "运维/脚本/从一个文件夹切分后形成多个文件夹.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "条件判断"
+              "title": "从一个文件夹切分后形成多个文件夹"
             }
           }
         ]
@@ -180,6 +180,9 @@
   },
   "active": "f852922fd1cc2f88",
   "lastOpenFiles": [
+    "运维/条件判断.md",
+    "运维/脚本/从一个文件夹切分后形成多个文件夹.md",
+    "运维/脚本",
     "运维/后台运行的方式.md",
     "运维/输入、输出重定向.md",
     "运维/静态网络配置.md",
@@ -204,8 +207,6 @@
     "公司/项目/硬件-边缘服务器/AI300G/AI300G.md",
     "公司/项目/病媒项目-卫勤所开发板/-记录.md",
     "公司/项目/病媒项目-卫勤所开发板/windows-tftpd64手动部署流程.md",
-    "公司/项目/病媒项目-卫勤所开发板/GPU开发板.md",
-    "公司/项目/病媒项目-卫勤所开发板/用户手册.md",
     "公司/项目/公司-生物多样性平台",
     "assets/imgs/Pasted image 20250312104107.png",
     "assets/imgs/Pasted image 20250312102909.png",
@@ -217,7 +218,6 @@
     "公司/项目/公司-ERP",
     "公司/项目/公司-数据采集",
     "公司/项目/公司-工作台",
-    "公司/项目/硬件-SE7/SE7 32-EA4.pdf",
     "assets/imgs/obsidian-git-config1.png",
     "assets/imgs/obsidian-git-config2.png",
     "assets/imgs/数据包走向.webp",
