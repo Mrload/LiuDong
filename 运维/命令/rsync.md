@@ -48,3 +48,10 @@ src/ dst/ # 这种写法将src下所有文件拷贝到dst下
 ```bash
 rsync -a --info=progress2 src/ dst/
 ```
+
+
+## 排除指定文件/文件夹
+
+```bash
+rsync -av --exclude={'media','node_modules'} DTP-V2/ DTP-V3/
+```
