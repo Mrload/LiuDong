@@ -10,9 +10,10 @@ mkdir conf log data
 ```bash
 docker run \
 -d  \
---name mysql  \
---privileged   \
+--name MySQLForDev  \
+--privileged=true   \
 --env MYSQL_ROOT_PASSWORD=xxx  \
+--env TZ=Asia/Shanghai \
 -p 3306:3306/tcp  \
 -v /data/users/yuncoder03/mysql/log:/var/log/mysql  \
 -v /data/users/yuncoder03/mysql/data:/var/lib/mysql  \
