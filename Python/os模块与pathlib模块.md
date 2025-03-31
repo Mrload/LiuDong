@@ -85,3 +85,6 @@ for root, dirs, files in os.walk(scr_path):
 
 	for 
 ```
+
+
+### 只遍历目录（向下递归）
