@@ -17,5 +17,7 @@
   "Blue-Topaz-Codebox-Highlight@@blur-codebox-frosted-glass": 0,
   "Blue-Topaz-Codebox-Highlight@@background-code@@light": "#E4F1CB",
   "Blue-Topaz-Codebox-Highlight@@code-active-line-background-color@@light": "#FFF667",
-  "Blue-Topaz-Codebox-Highlight@@background-code-2@@light": "#B6B6AD"
+  "Blue-Topaz-Codebox-Highlight@@background-code-2@@light": "#B6B6AD",
+  "blue-topaz-theme@@obsidian-default-image": true,
+  "blue-topaz-theme@@image-zoom": false
 }
