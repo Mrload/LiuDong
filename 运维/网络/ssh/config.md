@@ -22,3 +22,10 @@ and the repository exists.
 chmod 600 ~/.ssh/config
 ```
 
+## 样例
+```
+Host 123.456.789.111
+  HostName RemoteMC
+  User myname
+  Port 2222
+```
